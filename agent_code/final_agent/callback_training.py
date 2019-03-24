@@ -19,9 +19,9 @@ from .assembly import DuelingDQN, ExperienceBuffer
 from .preprocessing import preprocess, get_reward 
 
 # path to the training data, model, info
-BUFFER_PATH = os.path.join(".", "agent_code/final_agent/data/experience/replay_memory0.file")
-DQN_PATH = os.path.join(".", "agent_code/final_agent/data/models/duel_ddqn0.ckpt")
-INFO_PATH = os.path.join(".", "agent_code/final_agent/data/train_info/info0.npy")
+BUFFER_PATH = os.path.join(".", "data/experience/replay_memory0.file")
+DQN_PATH = os.path.join(".", "data/models/duel_ddqn0.ckpt")
+INFO_PATH = os.path.join(".", "data/train_info/info0.npy")
 TB_DIR = os.path.join(".", "tb/Duel_DDQN/1E-3_32_1E-5_2")
 
 
