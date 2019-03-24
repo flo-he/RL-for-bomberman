@@ -59,14 +59,7 @@ def setup(self):
 
         # start a session. add config=t_config if train multiple instances on one GPU 
         self.sess = tf.Session()
-        print("Tensorflow Session started.")
-            
-        # get model state info
-        info = np.load(INFO_PATH)
-        self.episode = info[0]
-        #self.epsilon = info[1]
-        self.epsilon = 0.01
-        #print("Episode, Epsilon, Decay, min_Epsilon = ", info)
+        print("Tensorflow Session started.")      
 
         # restore tensorflow session
         try:
