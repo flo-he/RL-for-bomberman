@@ -1,0 +1,1209 @@
+2019-03-24 15:24:10,542 [enemy_agent_wrapper] INFO: Import agent code from "agent_code/enemy_agent/callbacks.py"
+2019-03-24 15:24:14,337 [enemy_agent_wrapper] INFO: Initialize agent code
+2019-03-24 15:24:16,836 [enemy_agent_wrapper] INFO: STARTING ROUND #1
+2019-03-24 15:24:16,937 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:16,976 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.039s of thinking
+2019-03-24 15:24:17,038 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:17,038 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,041 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:17,139 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:17,140 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,143 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:17,241 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:17,242 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,244 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:17,343 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:17,344 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,347 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:17,444 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:17,445 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,448 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:17,545 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:17,546 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,549 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:17,646 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:17,647 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,649 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:17,748 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:17,749 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,752 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:17,853 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:17,854 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,857 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:17,954 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:17,955 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:17,958 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:18,056 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:18,057 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,060 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:18,160 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:18,160 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,163 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:18,261 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:18,262 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,265 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:18,362 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:18,363 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,365 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:18,466 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:18,466 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,469 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:18,566 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:18,567 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,570 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:18,667 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:18,668 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,671 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:18,770 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:18,771 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,774 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:18,871 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:18,871 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,875 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:18,971 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:18,972 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:18,975 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:19,077 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:19,077 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,080 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:19,177 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:19,178 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,180 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:19,278 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:19,278 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,279 [enemy_agent_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 15:24:19,379 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:19,380 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,382 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:19,480 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:19,481 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,484 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:19,582 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:19,583 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,586 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:19,684 [enemy_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 15:24:19,684 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,688 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-24 15:24:19,785 [enemy_agent_wrapper] INFO: STARTING STEP 29
+2019-03-24 15:24:19,786 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,791 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:19,887 [enemy_agent_wrapper] INFO: STARTING STEP 30
+2019-03-24 15:24:19,888 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,890 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:19,988 [enemy_agent_wrapper] INFO: STARTING STEP 31
+2019-03-24 15:24:19,989 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:19,992 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:20,090 [enemy_agent_wrapper] INFO: STARTING STEP 32
+2019-03-24 15:24:20,091 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,094 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:20,192 [enemy_agent_wrapper] INFO: STARTING STEP 33
+2019-03-24 15:24:20,193 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,196 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:20,294 [enemy_agent_wrapper] INFO: STARTING STEP 34
+2019-03-24 15:24:20,294 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,297 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:20,394 [enemy_agent_wrapper] INFO: STARTING STEP 35
+2019-03-24 15:24:20,395 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,398 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:20,495 [enemy_agent_wrapper] INFO: STARTING STEP 36
+2019-03-24 15:24:20,496 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,499 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:20,597 [enemy_agent_wrapper] INFO: STARTING STEP 37
+2019-03-24 15:24:20,597 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,598 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:20,698 [enemy_agent_wrapper] INFO: STARTING STEP 38
+2019-03-24 15:24:20,699 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,702 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:20,799 [enemy_agent_wrapper] INFO: STARTING STEP 39
+2019-03-24 15:24:20,800 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,803 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:20,900 [enemy_agent_wrapper] INFO: STARTING STEP 40
+2019-03-24 15:24:20,901 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:20,903 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:21,000 [enemy_agent_wrapper] INFO: STARTING STEP 41
+2019-03-24 15:24:21,001 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,004 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:21,101 [enemy_agent_wrapper] INFO: STARTING STEP 42
+2019-03-24 15:24:21,102 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,105 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:21,202 [enemy_agent_wrapper] INFO: STARTING STEP 43
+2019-03-24 15:24:21,203 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,207 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:21,304 [enemy_agent_wrapper] INFO: STARTING STEP 44
+2019-03-24 15:24:21,304 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,308 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:21,404 [enemy_agent_wrapper] INFO: STARTING STEP 45
+2019-03-24 15:24:21,405 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,408 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:21,505 [enemy_agent_wrapper] INFO: STARTING STEP 46
+2019-03-24 15:24:21,507 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:21,509 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:21,513 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:21,514 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:21,616 [enemy_agent_wrapper] INFO: Round #1 finished
+2019-03-24 15:24:22,799 [enemy_agent_wrapper] INFO: STARTING ROUND #2
+2019-03-24 15:24:22,822 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:22,825 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:22,923 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:22,923 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:22,926 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:23,024 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:23,026 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,028 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:23,125 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:23,126 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,128 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:23,226 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:23,227 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,230 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:23,328 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:23,328 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,331 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:23,429 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:23,430 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,432 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:23,530 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:23,531 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,534 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:23,631 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:23,632 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,634 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:23,732 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:23,733 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,736 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:23,834 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:23,835 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,838 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:23,935 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:23,936 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:23,939 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:24,036 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:24,037 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,040 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:24,138 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:24,139 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,142 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:24,239 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:24,240 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,242 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:24,341 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:24,341 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,344 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:24,441 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:24,442 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,445 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:24,543 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:24,543 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,546 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:24,644 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:24,645 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,648 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:24,745 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:24,746 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,749 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:24,846 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:24,847 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,850 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:24,947 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:24,948 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:24,950 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:25,049 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:25,050 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,053 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:25,149 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:25,150 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,153 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:25,250 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:25,251 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,254 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:25,352 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:25,354 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,357 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:25,453 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:25,454 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,457 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:25,555 [enemy_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 15:24:25,555 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,558 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:25,656 [enemy_agent_wrapper] INFO: STARTING STEP 29
+2019-03-24 15:24:25,657 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,660 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:25,758 [enemy_agent_wrapper] INFO: STARTING STEP 30
+2019-03-24 15:24:25,759 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,762 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:25,859 [enemy_agent_wrapper] INFO: STARTING STEP 31
+2019-03-24 15:24:25,860 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,863 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:25,960 [enemy_agent_wrapper] INFO: STARTING STEP 32
+2019-03-24 15:24:25,960 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:25,963 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:26,061 [enemy_agent_wrapper] INFO: STARTING STEP 33
+2019-03-24 15:24:26,061 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,064 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:26,163 [enemy_agent_wrapper] INFO: STARTING STEP 34
+2019-03-24 15:24:26,164 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,166 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:26,265 [enemy_agent_wrapper] INFO: STARTING STEP 35
+2019-03-24 15:24:26,267 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,269 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 15:24:26,365 [enemy_agent_wrapper] INFO: STARTING STEP 36
+2019-03-24 15:24:26,366 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,369 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:26,466 [enemy_agent_wrapper] INFO: STARTING STEP 37
+2019-03-24 15:24:26,467 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,470 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:26,567 [enemy_agent_wrapper] INFO: STARTING STEP 38
+2019-03-24 15:24:26,567 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,570 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:26,668 [enemy_agent_wrapper] INFO: STARTING STEP 39
+2019-03-24 15:24:26,669 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,672 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:26,769 [enemy_agent_wrapper] INFO: STARTING STEP 40
+2019-03-24 15:24:26,770 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,773 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:26,871 [enemy_agent_wrapper] INFO: STARTING STEP 41
+2019-03-24 15:24:26,871 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,874 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:26,972 [enemy_agent_wrapper] INFO: STARTING STEP 42
+2019-03-24 15:24:26,973 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:26,974 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 15:24:27,073 [enemy_agent_wrapper] INFO: STARTING STEP 43
+2019-03-24 15:24:27,074 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,077 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:27,174 [enemy_agent_wrapper] INFO: STARTING STEP 44
+2019-03-24 15:24:27,175 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,178 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:27,276 [enemy_agent_wrapper] INFO: STARTING STEP 45
+2019-03-24 15:24:27,276 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,284 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 15:24:27,377 [enemy_agent_wrapper] INFO: STARTING STEP 46
+2019-03-24 15:24:27,377 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,380 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:27,479 [enemy_agent_wrapper] INFO: STARTING STEP 47
+2019-03-24 15:24:27,479 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,482 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:27,586 [enemy_agent_wrapper] INFO: STARTING STEP 48
+2019-03-24 15:24:27,587 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,590 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:27,686 [enemy_agent_wrapper] INFO: STARTING STEP 49
+2019-03-24 15:24:27,687 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,691 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:27,787 [enemy_agent_wrapper] INFO: STARTING STEP 50
+2019-03-24 15:24:27,787 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,790 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:27,888 [enemy_agent_wrapper] INFO: STARTING STEP 51
+2019-03-24 15:24:27,889 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,891 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:27,989 [enemy_agent_wrapper] INFO: STARTING STEP 52
+2019-03-24 15:24:27,989 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:27,992 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:28,090 [enemy_agent_wrapper] INFO: STARTING STEP 53
+2019-03-24 15:24:28,091 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,094 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:28,192 [enemy_agent_wrapper] INFO: STARTING STEP 54
+2019-03-24 15:24:28,193 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,195 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:28,293 [enemy_agent_wrapper] INFO: STARTING STEP 55
+2019-03-24 15:24:28,294 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,297 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:28,395 [enemy_agent_wrapper] INFO: STARTING STEP 56
+2019-03-24 15:24:28,395 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,398 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:28,495 [enemy_agent_wrapper] INFO: STARTING STEP 57
+2019-03-24 15:24:28,496 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,499 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:28,596 [enemy_agent_wrapper] INFO: STARTING STEP 58
+2019-03-24 15:24:28,597 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,600 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:28,697 [enemy_agent_wrapper] INFO: STARTING STEP 59
+2019-03-24 15:24:28,698 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,701 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:28,799 [enemy_agent_wrapper] INFO: STARTING STEP 60
+2019-03-24 15:24:28,800 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,802 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:28,900 [enemy_agent_wrapper] INFO: STARTING STEP 61
+2019-03-24 15:24:28,901 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:28,904 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:29,001 [enemy_agent_wrapper] INFO: STARTING STEP 62
+2019-03-24 15:24:29,002 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,004 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:29,102 [enemy_agent_wrapper] INFO: STARTING STEP 63
+2019-03-24 15:24:29,102 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,106 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:29,203 [enemy_agent_wrapper] INFO: STARTING STEP 64
+2019-03-24 15:24:29,204 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,207 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:29,310 [enemy_agent_wrapper] INFO: STARTING STEP 65
+2019-03-24 15:24:29,313 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,316 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:29,405 [enemy_agent_wrapper] INFO: STARTING STEP 66
+2019-03-24 15:24:29,406 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,409 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:29,507 [enemy_agent_wrapper] INFO: STARTING STEP 67
+2019-03-24 15:24:29,508 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,510 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:29,611 [enemy_agent_wrapper] INFO: STARTING STEP 68
+2019-03-24 15:24:29,612 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,612 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 15:24:29,713 [enemy_agent_wrapper] INFO: STARTING STEP 69
+2019-03-24 15:24:29,714 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:29,717 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:29,722 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:29,722 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:29,824 [enemy_agent_wrapper] INFO: Round #2 finished
+2019-03-24 15:24:30,810 [enemy_agent_wrapper] INFO: STARTING ROUND #3
+2019-03-24 15:24:30,830 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:30,834 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:30,932 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:30,932 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:30,935 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:31,033 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:31,033 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,036 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:31,134 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:31,135 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,138 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:31,235 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:31,236 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,240 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:31,337 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:31,337 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,340 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:31,438 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:31,438 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,441 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:31,539 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:31,540 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,542 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:31,640 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:31,641 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,644 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:31,743 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:31,743 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,744 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:31,844 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:31,845 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,849 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:31,945 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:31,946 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:31,949 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:32,048 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:32,048 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,051 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:32,148 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:32,149 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,152 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:32,250 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:32,250 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,253 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:32,354 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:32,354 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,356 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:32,454 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:32,455 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,458 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:32,555 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:32,556 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,559 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:32,658 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:32,659 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,661 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:32,758 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:32,759 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,762 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:32,860 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:32,861 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,863 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:32,963 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:32,963 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:32,966 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:33,063 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:33,064 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,065 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 15:24:33,165 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:33,166 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,169 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:33,267 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:33,267 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,271 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:33,368 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:33,369 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,373 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-24 15:24:33,469 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:33,470 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,472 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:33,570 [enemy_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 15:24:33,571 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,573 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:33,672 [enemy_agent_wrapper] INFO: STARTING STEP 29
+2019-03-24 15:24:33,672 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,675 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:33,773 [enemy_agent_wrapper] INFO: STARTING STEP 30
+2019-03-24 15:24:33,774 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,777 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:33,875 [enemy_agent_wrapper] INFO: STARTING STEP 31
+2019-03-24 15:24:33,876 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,879 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:33,976 [enemy_agent_wrapper] INFO: STARTING STEP 32
+2019-03-24 15:24:33,977 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:33,980 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:34,077 [enemy_agent_wrapper] INFO: STARTING STEP 33
+2019-03-24 15:24:34,078 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,081 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:34,179 [enemy_agent_wrapper] INFO: STARTING STEP 34
+2019-03-24 15:24:34,180 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,183 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:34,281 [enemy_agent_wrapper] INFO: STARTING STEP 35
+2019-03-24 15:24:34,281 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,285 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:34,382 [enemy_agent_wrapper] INFO: STARTING STEP 36
+2019-03-24 15:24:34,383 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,386 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:34,483 [enemy_agent_wrapper] INFO: STARTING STEP 37
+2019-03-24 15:24:34,484 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,488 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-24 15:24:34,585 [enemy_agent_wrapper] INFO: STARTING STEP 38
+2019-03-24 15:24:34,586 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,589 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:34,687 [enemy_agent_wrapper] INFO: STARTING STEP 39
+2019-03-24 15:24:34,687 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,690 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:34,788 [enemy_agent_wrapper] INFO: STARTING STEP 40
+2019-03-24 15:24:34,788 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,789 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:34,889 [enemy_agent_wrapper] INFO: STARTING STEP 41
+2019-03-24 15:24:34,889 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,892 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:34,990 [enemy_agent_wrapper] INFO: STARTING STEP 42
+2019-03-24 15:24:34,991 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:34,994 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:35,091 [enemy_agent_wrapper] INFO: STARTING STEP 43
+2019-03-24 15:24:35,092 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,095 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:35,192 [enemy_agent_wrapper] INFO: STARTING STEP 44
+2019-03-24 15:24:35,193 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,196 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:35,293 [enemy_agent_wrapper] INFO: STARTING STEP 45
+2019-03-24 15:24:35,293 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,301 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 15:24:35,394 [enemy_agent_wrapper] INFO: STARTING STEP 46
+2019-03-24 15:24:35,394 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,398 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:35,495 [enemy_agent_wrapper] INFO: STARTING STEP 47
+2019-03-24 15:24:35,496 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,499 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:35,597 [enemy_agent_wrapper] INFO: STARTING STEP 48
+2019-03-24 15:24:35,597 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,601 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:35,698 [enemy_agent_wrapper] INFO: STARTING STEP 49
+2019-03-24 15:24:35,698 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,700 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:35,798 [enemy_agent_wrapper] INFO: STARTING STEP 50
+2019-03-24 15:24:35,799 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,802 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:35,899 [enemy_agent_wrapper] INFO: STARTING STEP 51
+2019-03-24 15:24:35,907 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:35,909 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 15:24:35,914 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:35,915 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:36,017 [enemy_agent_wrapper] INFO: Round #3 finished
+2019-03-24 15:24:36,958 [enemy_agent_wrapper] INFO: STARTING ROUND #4
+2019-03-24 15:24:37,024 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:37,027 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:37,125 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:37,126 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,128 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:37,226 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:37,227 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,230 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:37,327 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:37,327 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,330 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:37,429 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:37,429 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,432 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:37,530 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:37,531 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,533 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:37,632 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:37,633 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,636 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:37,737 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:37,737 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,740 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:37,837 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:37,838 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,841 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:37,938 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:37,939 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:37,939 [enemy_agent_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 15:24:38,042 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:38,043 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,045 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:38,143 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:38,144 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,146 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:38,244 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:38,245 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,247 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:38,348 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:38,348 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,351 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:38,450 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:38,451 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,454 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:38,550 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:38,551 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,555 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:38,654 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:38,655 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,658 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:38,755 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:38,756 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,759 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:38,856 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:38,857 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,859 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:38,961 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:38,962 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:38,964 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:39,062 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:39,063 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,065 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:39,163 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:39,164 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,167 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:39,266 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:39,267 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,267 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 15:24:39,366 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:39,367 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,370 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:39,467 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:39,468 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,471 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:39,569 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:39,570 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,573 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:39,671 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:39,672 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:39,675 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:39,680 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:39,680 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:39,783 [enemy_agent_wrapper] INFO: Round #4 finished
+2019-03-24 15:24:40,410 [enemy_agent_wrapper] INFO: STARTING ROUND #5
+2019-03-24 15:24:40,486 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:40,490 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:40,587 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:40,587 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:40,590 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:40,688 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:40,688 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:40,691 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:40,789 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:40,790 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:40,792 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:40,890 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:40,891 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:40,893 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:40,992 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:40,993 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:40,996 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:41,093 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:41,094 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,097 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:41,194 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:41,195 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,198 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:41,297 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:41,297 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,300 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:41,397 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:41,398 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,401 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:41,499 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:41,499 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,502 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:41,600 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:41,600 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,603 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:41,701 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:41,702 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,705 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:41,802 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:41,803 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,806 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:41,903 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:41,904 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:41,907 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:42,004 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:42,004 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:42,007 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:42,105 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:42,106 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:42,109 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 15:24:42,206 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:42,207 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:42,210 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:42,308 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:42,309 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:42,311 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:42,315 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:42,316 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:42,418 [enemy_agent_wrapper] INFO: Round #5 finished
+2019-03-24 15:24:42,794 [enemy_agent_wrapper] INFO: STARTING ROUND #6
+2019-03-24 15:24:42,820 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:42,824 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:42,921 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:42,922 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:42,924 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:43,022 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:43,023 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,031 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 15:24:43,123 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:43,124 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,127 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:43,224 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:43,225 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,228 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:43,325 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:43,326 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,329 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:43,426 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:43,427 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,430 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:43,527 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:43,528 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,530 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:43,628 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:43,629 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,631 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:43,729 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:43,730 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,733 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:43,830 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:43,831 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,834 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:43,932 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:43,932 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:43,935 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:44,034 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:44,035 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,038 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:44,135 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:44,135 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,139 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:44,235 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:44,236 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,239 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:44,336 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:44,337 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,340 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:44,438 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:44,439 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,441 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:44,539 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:44,539 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,542 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:44,640 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:44,640 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,643 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:44,740 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:44,741 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,744 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:44,842 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:44,843 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,845 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:44,943 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:44,944 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:44,947 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:45,044 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:45,045 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,048 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:45,145 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:45,145 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,148 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:45,246 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:45,247 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,249 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:45,347 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:45,347 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,350 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:45,448 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:45,449 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,452 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:45,550 [enemy_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 15:24:45,551 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,554 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:45,650 [enemy_agent_wrapper] INFO: STARTING STEP 29
+2019-03-24 15:24:45,651 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,655 [enemy_agent_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 15:24:45,751 [enemy_agent_wrapper] INFO: STARTING STEP 30
+2019-03-24 15:24:45,751 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,755 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:45,853 [enemy_agent_wrapper] INFO: STARTING STEP 31
+2019-03-24 15:24:45,854 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,857 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:45,955 [enemy_agent_wrapper] INFO: STARTING STEP 32
+2019-03-24 15:24:45,955 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:45,958 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:46,056 [enemy_agent_wrapper] INFO: STARTING STEP 33
+2019-03-24 15:24:46,057 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,059 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:46,157 [enemy_agent_wrapper] INFO: STARTING STEP 34
+2019-03-24 15:24:46,157 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,160 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:46,259 [enemy_agent_wrapper] INFO: STARTING STEP 35
+2019-03-24 15:24:46,259 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,262 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:46,360 [enemy_agent_wrapper] INFO: STARTING STEP 36
+2019-03-24 15:24:46,360 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,363 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:46,462 [enemy_agent_wrapper] INFO: STARTING STEP 37
+2019-03-24 15:24:46,463 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,465 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:46,563 [enemy_agent_wrapper] INFO: STARTING STEP 38
+2019-03-24 15:24:46,564 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,567 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:46,665 [enemy_agent_wrapper] INFO: STARTING STEP 39
+2019-03-24 15:24:46,665 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,668 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:46,765 [enemy_agent_wrapper] INFO: STARTING STEP 40
+2019-03-24 15:24:46,766 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,769 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:46,867 [enemy_agent_wrapper] INFO: STARTING STEP 41
+2019-03-24 15:24:46,868 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,871 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:46,968 [enemy_agent_wrapper] INFO: STARTING STEP 42
+2019-03-24 15:24:46,969 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:46,972 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:47,069 [enemy_agent_wrapper] INFO: STARTING STEP 43
+2019-03-24 15:24:47,070 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,073 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:47,170 [enemy_agent_wrapper] INFO: STARTING STEP 44
+2019-03-24 15:24:47,171 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,173 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:47,272 [enemy_agent_wrapper] INFO: STARTING STEP 45
+2019-03-24 15:24:47,273 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,276 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:47,373 [enemy_agent_wrapper] INFO: STARTING STEP 46
+2019-03-24 15:24:47,374 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,377 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:47,474 [enemy_agent_wrapper] INFO: STARTING STEP 47
+2019-03-24 15:24:47,475 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,478 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:47,583 [enemy_agent_wrapper] INFO: STARTING STEP 48
+2019-03-24 15:24:47,583 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,587 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:47,683 [enemy_agent_wrapper] INFO: STARTING STEP 49
+2019-03-24 15:24:47,684 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,687 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:47,783 [enemy_agent_wrapper] INFO: STARTING STEP 50
+2019-03-24 15:24:47,784 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,787 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:47,886 [enemy_agent_wrapper] INFO: STARTING STEP 51
+2019-03-24 15:24:47,887 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,889 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:47,987 [enemy_agent_wrapper] INFO: STARTING STEP 52
+2019-03-24 15:24:47,988 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:47,991 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:48,089 [enemy_agent_wrapper] INFO: STARTING STEP 53
+2019-03-24 15:24:48,090 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,090 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-03-24 15:24:48,189 [enemy_agent_wrapper] INFO: STARTING STEP 54
+2019-03-24 15:24:48,190 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,193 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:48,291 [enemy_agent_wrapper] INFO: STARTING STEP 55
+2019-03-24 15:24:48,292 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,294 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:48,392 [enemy_agent_wrapper] INFO: STARTING STEP 56
+2019-03-24 15:24:48,393 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,395 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:48,493 [enemy_agent_wrapper] INFO: STARTING STEP 57
+2019-03-24 15:24:48,494 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,496 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:48,595 [enemy_agent_wrapper] INFO: STARTING STEP 58
+2019-03-24 15:24:48,596 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,599 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:48,697 [enemy_agent_wrapper] INFO: STARTING STEP 59
+2019-03-24 15:24:48,698 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,700 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:48,798 [enemy_agent_wrapper] INFO: STARTING STEP 60
+2019-03-24 15:24:48,799 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,801 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:48,900 [enemy_agent_wrapper] INFO: STARTING STEP 61
+2019-03-24 15:24:48,901 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:48,903 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:49,001 [enemy_agent_wrapper] INFO: STARTING STEP 62
+2019-03-24 15:24:49,001 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,002 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:49,102 [enemy_agent_wrapper] INFO: STARTING STEP 63
+2019-03-24 15:24:49,103 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,106 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:49,203 [enemy_agent_wrapper] INFO: STARTING STEP 64
+2019-03-24 15:24:49,204 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,207 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:49,305 [enemy_agent_wrapper] INFO: STARTING STEP 65
+2019-03-24 15:24:49,306 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,309 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:49,406 [enemy_agent_wrapper] INFO: STARTING STEP 66
+2019-03-24 15:24:49,407 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,409 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:49,507 [enemy_agent_wrapper] INFO: STARTING STEP 67
+2019-03-24 15:24:49,508 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,511 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:49,608 [enemy_agent_wrapper] INFO: STARTING STEP 68
+2019-03-24 15:24:49,609 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,612 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:49,709 [enemy_agent_wrapper] INFO: STARTING STEP 69
+2019-03-24 15:24:49,710 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,713 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:49,810 [enemy_agent_wrapper] INFO: STARTING STEP 70
+2019-03-24 15:24:49,810 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,811 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 15:24:49,918 [enemy_agent_wrapper] INFO: STARTING STEP 71
+2019-03-24 15:24:49,919 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:49,922 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:50,017 [enemy_agent_wrapper] INFO: STARTING STEP 72
+2019-03-24 15:24:50,018 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,022 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 15:24:50,118 [enemy_agent_wrapper] INFO: STARTING STEP 73
+2019-03-24 15:24:50,119 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,122 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:50,220 [enemy_agent_wrapper] INFO: STARTING STEP 74
+2019-03-24 15:24:50,220 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,223 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:50,321 [enemy_agent_wrapper] INFO: STARTING STEP 75
+2019-03-24 15:24:50,322 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,325 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:50,422 [enemy_agent_wrapper] INFO: STARTING STEP 76
+2019-03-24 15:24:50,423 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,425 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:50,523 [enemy_agent_wrapper] INFO: STARTING STEP 77
+2019-03-24 15:24:50,524 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,527 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:50,624 [enemy_agent_wrapper] INFO: STARTING STEP 78
+2019-03-24 15:24:50,625 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,628 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:50,726 [enemy_agent_wrapper] INFO: STARTING STEP 79
+2019-03-24 15:24:50,727 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,729 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:50,827 [enemy_agent_wrapper] INFO: STARTING STEP 80
+2019-03-24 15:24:50,828 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,830 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:50,928 [enemy_agent_wrapper] INFO: STARTING STEP 81
+2019-03-24 15:24:50,929 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:50,932 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:51,030 [enemy_agent_wrapper] INFO: STARTING STEP 82
+2019-03-24 15:24:51,031 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,031 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:51,132 [enemy_agent_wrapper] INFO: STARTING STEP 83
+2019-03-24 15:24:51,133 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,136 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:51,233 [enemy_agent_wrapper] INFO: STARTING STEP 84
+2019-03-24 15:24:51,234 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,237 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:51,341 [enemy_agent_wrapper] INFO: STARTING STEP 85
+2019-03-24 15:24:51,341 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,344 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:51,441 [enemy_agent_wrapper] INFO: STARTING STEP 86
+2019-03-24 15:24:51,442 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,445 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:51,543 [enemy_agent_wrapper] INFO: STARTING STEP 87
+2019-03-24 15:24:51,544 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,546 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:51,643 [enemy_agent_wrapper] INFO: STARTING STEP 88
+2019-03-24 15:24:51,644 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,647 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:51,745 [enemy_agent_wrapper] INFO: STARTING STEP 89
+2019-03-24 15:24:51,746 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,748 [enemy_agent_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 15:24:51,847 [enemy_agent_wrapper] INFO: STARTING STEP 90
+2019-03-24 15:24:51,847 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,850 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:51,948 [enemy_agent_wrapper] INFO: STARTING STEP 91
+2019-03-24 15:24:51,949 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:51,951 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:52,049 [enemy_agent_wrapper] INFO: STARTING STEP 92
+2019-03-24 15:24:52,050 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,053 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:52,150 [enemy_agent_wrapper] INFO: STARTING STEP 93
+2019-03-24 15:24:52,151 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,154 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:52,253 [enemy_agent_wrapper] INFO: STARTING STEP 94
+2019-03-24 15:24:52,254 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,257 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:52,354 [enemy_agent_wrapper] INFO: STARTING STEP 95
+2019-03-24 15:24:52,354 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,357 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:52,458 [enemy_agent_wrapper] INFO: STARTING STEP 96
+2019-03-24 15:24:52,459 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,462 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:52,560 [enemy_agent_wrapper] INFO: STARTING STEP 97
+2019-03-24 15:24:52,561 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,563 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:52,661 [enemy_agent_wrapper] INFO: STARTING STEP 98
+2019-03-24 15:24:52,661 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,664 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:52,762 [enemy_agent_wrapper] INFO: STARTING STEP 99
+2019-03-24 15:24:52,763 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,766 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:52,863 [enemy_agent_wrapper] INFO: STARTING STEP 100
+2019-03-24 15:24:52,864 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,867 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:52,964 [enemy_agent_wrapper] INFO: STARTING STEP 101
+2019-03-24 15:24:52,964 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:52,967 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:53,065 [enemy_agent_wrapper] INFO: STARTING STEP 102
+2019-03-24 15:24:53,066 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,069 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:53,167 [enemy_agent_wrapper] INFO: STARTING STEP 103
+2019-03-24 15:24:53,168 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,171 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:53,274 [enemy_agent_wrapper] INFO: STARTING STEP 104
+2019-03-24 15:24:53,274 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,278 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:53,375 [enemy_agent_wrapper] INFO: STARTING STEP 105
+2019-03-24 15:24:53,375 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,378 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:53,476 [enemy_agent_wrapper] INFO: STARTING STEP 106
+2019-03-24 15:24:53,477 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,480 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:53,577 [enemy_agent_wrapper] INFO: STARTING STEP 107
+2019-03-24 15:24:53,578 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,580 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:53,678 [enemy_agent_wrapper] INFO: STARTING STEP 108
+2019-03-24 15:24:53,679 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:53,682 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:53,689 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:24:53,689 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:24:53,797 [enemy_agent_wrapper] INFO: Round #6 finished
+2019-03-24 15:24:54,396 [enemy_agent_wrapper] INFO: STARTING ROUND #7
+2019-03-24 15:24:54,406 [enemy_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 15:24:54,409 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:54,505 [enemy_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 15:24:54,506 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:54,508 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:54,607 [enemy_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 15:24:54,608 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:54,610 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:54,712 [enemy_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 15:24:54,713 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:54,716 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:54,814 [enemy_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 15:24:54,814 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:54,817 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:54,914 [enemy_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 15:24:54,915 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:54,918 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:55,020 [enemy_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 15:24:55,020 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,023 [enemy_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 15:24:55,120 [enemy_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 15:24:55,121 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,124 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:55,222 [enemy_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 15:24:55,222 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,225 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:55,326 [enemy_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 15:24:55,327 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,329 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:55,427 [enemy_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 15:24:55,428 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,428 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-24 15:24:55,528 [enemy_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 15:24:55,529 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,531 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:55,630 [enemy_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 15:24:55,630 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,633 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:55,730 [enemy_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 15:24:55,731 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,733 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:55,831 [enemy_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 15:24:55,832 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,834 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:55,932 [enemy_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 15:24:55,932 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:55,940 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 15:24:56,033 [enemy_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 15:24:56,034 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,037 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:56,135 [enemy_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 15:24:56,136 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,139 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:56,237 [enemy_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 15:24:56,237 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,238 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 15:24:56,338 [enemy_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 15:24:56,339 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,341 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:56,439 [enemy_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 15:24:56,440 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,443 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 15:24:56,540 [enemy_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 15:24:56,541 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,543 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:56,641 [enemy_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 15:24:56,642 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,643 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 15:24:56,742 [enemy_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 15:24:56,743 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,744 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 15:24:56,843 [enemy_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 15:24:56,844 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,847 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:56,945 [enemy_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 15:24:56,946 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:56,949 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:57,047 [enemy_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 15:24:57,047 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,050 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:57,148 [enemy_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 15:24:57,149 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,151 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:57,248 [enemy_agent_wrapper] INFO: STARTING STEP 29
+2019-03-24 15:24:57,249 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,252 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:57,349 [enemy_agent_wrapper] INFO: STARTING STEP 30
+2019-03-24 15:24:57,350 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,353 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:57,450 [enemy_agent_wrapper] INFO: STARTING STEP 31
+2019-03-24 15:24:57,451 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,454 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:57,551 [enemy_agent_wrapper] INFO: STARTING STEP 32
+2019-03-24 15:24:57,552 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,555 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 15:24:57,653 [enemy_agent_wrapper] INFO: STARTING STEP 33
+2019-03-24 15:24:57,653 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,657 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:57,754 [enemy_agent_wrapper] INFO: STARTING STEP 34
+2019-03-24 15:24:57,754 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,757 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:57,855 [enemy_agent_wrapper] INFO: STARTING STEP 35
+2019-03-24 15:24:57,855 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,858 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:57,956 [enemy_agent_wrapper] INFO: STARTING STEP 36
+2019-03-24 15:24:57,957 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:57,959 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:58,057 [enemy_agent_wrapper] INFO: STARTING STEP 37
+2019-03-24 15:24:58,058 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,060 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:58,158 [enemy_agent_wrapper] INFO: STARTING STEP 38
+2019-03-24 15:24:58,158 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,161 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:58,259 [enemy_agent_wrapper] INFO: STARTING STEP 39
+2019-03-24 15:24:58,260 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,263 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:58,361 [enemy_agent_wrapper] INFO: STARTING STEP 40
+2019-03-24 15:24:58,362 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,364 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:58,462 [enemy_agent_wrapper] INFO: STARTING STEP 41
+2019-03-24 15:24:58,463 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,466 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:24:58,563 [enemy_agent_wrapper] INFO: STARTING STEP 42
+2019-03-24 15:24:58,564 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,566 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:58,664 [enemy_agent_wrapper] INFO: STARTING STEP 43
+2019-03-24 15:24:58,664 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,667 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:24:58,765 [enemy_agent_wrapper] INFO: STARTING STEP 44
+2019-03-24 15:24:58,766 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,769 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:24:58,867 [enemy_agent_wrapper] INFO: STARTING STEP 45
+2019-03-24 15:24:58,867 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,870 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:24:58,968 [enemy_agent_wrapper] INFO: STARTING STEP 46
+2019-03-24 15:24:58,969 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:58,972 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 15:24:59,070 [enemy_agent_wrapper] INFO: STARTING STEP 47
+2019-03-24 15:24:59,070 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,073 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:59,171 [enemy_agent_wrapper] INFO: STARTING STEP 48
+2019-03-24 15:24:59,172 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,174 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:59,272 [enemy_agent_wrapper] INFO: STARTING STEP 49
+2019-03-24 15:24:59,272 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,276 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:24:59,374 [enemy_agent_wrapper] INFO: STARTING STEP 50
+2019-03-24 15:24:59,375 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,375 [enemy_agent_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-24 15:24:59,475 [enemy_agent_wrapper] INFO: STARTING STEP 51
+2019-03-24 15:24:59,475 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,478 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:24:59,576 [enemy_agent_wrapper] INFO: STARTING STEP 52
+2019-03-24 15:24:59,577 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,584 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 15:24:59,677 [enemy_agent_wrapper] INFO: STARTING STEP 53
+2019-03-24 15:24:59,677 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,678 [enemy_agent_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 15:24:59,778 [enemy_agent_wrapper] INFO: STARTING STEP 54
+2019-03-24 15:24:59,778 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,781 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:59,885 [enemy_agent_wrapper] INFO: STARTING STEP 55
+2019-03-24 15:24:59,888 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,891 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 15:24:59,980 [enemy_agent_wrapper] INFO: STARTING STEP 56
+2019-03-24 15:24:59,981 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:24:59,984 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:25:00,081 [enemy_agent_wrapper] INFO: STARTING STEP 57
+2019-03-24 15:25:00,081 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,084 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:25:00,182 [enemy_agent_wrapper] INFO: STARTING STEP 58
+2019-03-24 15:25:00,183 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,187 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:25:00,284 [enemy_agent_wrapper] INFO: STARTING STEP 59
+2019-03-24 15:25:00,285 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,289 [enemy_agent_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 15:25:00,386 [enemy_agent_wrapper] INFO: STARTING STEP 60
+2019-03-24 15:25:00,387 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,390 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:25:00,487 [enemy_agent_wrapper] INFO: STARTING STEP 61
+2019-03-24 15:25:00,488 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,491 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:25:00,597 [enemy_agent_wrapper] INFO: STARTING STEP 62
+2019-03-24 15:25:00,598 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,602 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:25:00,695 [enemy_agent_wrapper] INFO: STARTING STEP 63
+2019-03-24 15:25:00,696 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,699 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:25:00,796 [enemy_agent_wrapper] INFO: STARTING STEP 64
+2019-03-24 15:25:00,797 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,800 [enemy_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 15:25:00,904 [enemy_agent_wrapper] INFO: STARTING STEP 65
+2019-03-24 15:25:00,905 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:00,908 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:25:01,005 [enemy_agent_wrapper] INFO: STARTING STEP 66
+2019-03-24 15:25:01,006 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,010 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:25:01,105 [enemy_agent_wrapper] INFO: STARTING STEP 67
+2019-03-24 15:25:01,106 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,109 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:25:01,211 [enemy_agent_wrapper] INFO: STARTING STEP 68
+2019-03-24 15:25:01,211 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,214 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:25:01,312 [enemy_agent_wrapper] INFO: STARTING STEP 69
+2019-03-24 15:25:01,314 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,316 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 15:25:01,413 [enemy_agent_wrapper] INFO: STARTING STEP 70
+2019-03-24 15:25:01,413 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,417 [enemy_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 15:25:01,513 [enemy_agent_wrapper] INFO: STARTING STEP 71
+2019-03-24 15:25:01,514 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,517 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 15:25:01,615 [enemy_agent_wrapper] INFO: STARTING STEP 72
+2019-03-24 15:25:01,616 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,618 [enemy_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 15:25:01,717 [enemy_agent_wrapper] INFO: STARTING STEP 73
+2019-03-24 15:25:01,717 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,724 [enemy_agent_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-24 15:25:01,818 [enemy_agent_wrapper] INFO: STARTING STEP 74
+2019-03-24 15:25:01,818 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,826 [enemy_agent_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-24 15:25:01,981 [enemy_agent_wrapper] INFO: STARTING STEP 75
+2019-03-24 15:25:01,982 [enemy_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 15:25:01,985 [enemy_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 15:25:02,082 [enemy_agent_wrapper] INFO: Received exit message for round
+2019-03-24 15:25:02,082 [enemy_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 15:25:02,091 [enemy_agent_wrapper] INFO: Round #7 finished
+2019-03-24 15:25:02,091 [enemy_agent_wrapper] INFO: STARTING ROUND #[1, 11, 16]

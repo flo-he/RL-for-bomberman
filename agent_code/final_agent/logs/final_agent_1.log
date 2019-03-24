@@ -1,0 +1,1107 @@
+2019-03-24 18:17:28,791 [final_agent_1_wrapper] INFO: Import agent code from "agent_code/final_agent/callbacks.py"
+2019-03-24 18:17:32,451 [final_agent_1_wrapper] INFO: Initialize agent code
+2019-03-24 18:17:42,084 [final_agent_1_wrapper] INFO: STARTING ROUND #1
+2019-03-24 18:17:42,161 [final_agent_1_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:17:42,222 [final_agent_1_wrapper] INFO: Chose action UP after 0.061s of thinking
+2019-03-24 18:17:42,237 [final_agent_1_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:17:42,241 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:17:42,314 [final_agent_1_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:17:42,318 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:17:42,390 [final_agent_1_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:17:42,393 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:42,466 [final_agent_1_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:17:42,471 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:17:42,543 [final_agent_1_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:17:42,545 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:42,618 [final_agent_1_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:17:42,621 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:42,695 [final_agent_1_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:17:42,697 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:42,771 [final_agent_1_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:17:42,774 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:42,847 [final_agent_1_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:17:42,849 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:42,923 [final_agent_1_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:17:42,927 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:43,000 [final_agent_1_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:17:43,003 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:43,077 [final_agent_1_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:17:43,081 [final_agent_1_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 18:17:43,153 [final_agent_1_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:17:43,157 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:17:43,230 [final_agent_1_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:17:43,232 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:43,306 [final_agent_1_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:17:43,309 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:43,383 [final_agent_1_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:17:43,386 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:17:43,459 [final_agent_1_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:17:43,463 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:17:43,535 [final_agent_1_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:17:43,538 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:43,611 [final_agent_1_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:17:43,612 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-24 18:17:43,688 [final_agent_1_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:17:43,691 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:43,765 [final_agent_1_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:17:43,769 [final_agent_1_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:17:43,841 [final_agent_1_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:17:43,844 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:43,917 [final_agent_1_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:17:43,921 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:43,994 [final_agent_1_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:17:43,997 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:17:44,070 [final_agent_1_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:17:44,073 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:17:44,147 [final_agent_1_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:17:44,149 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:44,224 [final_agent_1_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:17:44,226 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:44,300 [final_agent_1_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:17:44,305 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:17:44,376 [final_agent_1_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:17:44,379 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:44,453 [final_agent_1_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:17:44,456 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:44,529 [final_agent_1_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:17:44,534 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:17:44,606 [final_agent_1_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:17:44,609 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:44,682 [final_agent_1_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:17:44,685 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:44,759 [final_agent_1_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:17:44,762 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:44,835 [final_agent_1_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:17:44,837 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:44,911 [final_agent_1_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:17:44,915 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:44,988 [final_agent_1_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:17:44,990 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:45,065 [final_agent_1_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:17:45,068 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:45,142 [final_agent_1_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:17:45,144 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:45,218 [final_agent_1_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:17:45,220 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:45,293 [final_agent_1_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:17:45,297 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:17:45,370 [final_agent_1_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:17:45,374 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:17:45,445 [final_agent_1_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:17:45,448 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:45,522 [final_agent_1_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:17:45,524 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:45,599 [final_agent_1_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:17:45,602 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:17:45,675 [final_agent_1_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:17:45,678 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:45,751 [final_agent_1_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:17:45,753 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:45,827 [final_agent_1_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:17:45,829 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:17:45,902 [final_agent_1_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:17:45,905 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:45,978 [final_agent_1_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:17:45,981 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:46,055 [final_agent_1_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:17:46,058 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:46,131 [final_agent_1_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:17:46,134 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:46,207 [final_agent_1_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:17:46,210 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:17:46,283 [final_agent_1_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:17:46,286 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:46,359 [final_agent_1_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:17:46,361 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:17:46,435 [final_agent_1_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:17:46,438 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:46,511 [final_agent_1_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:17:46,514 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:46,587 [final_agent_1_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:17:46,589 [final_agent_1_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:17:46,663 [final_agent_1_wrapper] INFO: STARTING STEP 60
+2019-03-24 18:17:46,667 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:46,740 [final_agent_1_wrapper] INFO: STARTING STEP 61
+2019-03-24 18:17:46,743 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:46,817 [final_agent_1_wrapper] INFO: STARTING STEP 62
+2019-03-24 18:17:46,820 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:46,894 [final_agent_1_wrapper] INFO: STARTING STEP 63
+2019-03-24 18:17:46,896 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:46,969 [final_agent_1_wrapper] INFO: STARTING STEP 64
+2019-03-24 18:17:46,973 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:17:47,046 [final_agent_1_wrapper] INFO: STARTING STEP 65
+2019-03-24 18:17:47,046 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:17:47,122 [final_agent_1_wrapper] INFO: STARTING STEP 66
+2019-03-24 18:17:47,125 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:47,198 [final_agent_1_wrapper] INFO: STARTING STEP 67
+2019-03-24 18:17:47,201 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:47,274 [final_agent_1_wrapper] INFO: STARTING STEP 68
+2019-03-24 18:17:47,277 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:17:47,350 [final_agent_1_wrapper] INFO: STARTING STEP 69
+2019-03-24 18:17:47,352 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:47,426 [final_agent_1_wrapper] INFO: STARTING STEP 70
+2019-03-24 18:17:47,429 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:17:47,503 [final_agent_1_wrapper] INFO: STARTING STEP 71
+2019-03-24 18:17:47,506 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:17:47,579 [final_agent_1_wrapper] INFO: STARTING STEP 72
+2019-03-24 18:17:47,581 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:47,655 [final_agent_1_wrapper] INFO: STARTING STEP 73
+2019-03-24 18:17:47,658 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:47,732 [final_agent_1_wrapper] INFO: STARTING STEP 74
+2019-03-24 18:17:47,735 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:17:47,808 [final_agent_1_wrapper] INFO: STARTING STEP 75
+2019-03-24 18:17:47,811 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:47,884 [final_agent_1_wrapper] INFO: STARTING STEP 76
+2019-03-24 18:17:47,888 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:17:47,961 [final_agent_1_wrapper] INFO: STARTING STEP 77
+2019-03-24 18:17:47,961 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:17:48,037 [final_agent_1_wrapper] INFO: STARTING STEP 78
+2019-03-24 18:17:48,039 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:48,122 [final_agent_1_wrapper] INFO: STARTING STEP 79
+2019-03-24 18:17:48,124 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,197 [final_agent_1_wrapper] INFO: STARTING STEP 80
+2019-03-24 18:17:48,199 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,273 [final_agent_1_wrapper] INFO: STARTING STEP 81
+2019-03-24 18:17:48,276 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,350 [final_agent_1_wrapper] INFO: STARTING STEP 82
+2019-03-24 18:17:48,353 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,427 [final_agent_1_wrapper] INFO: STARTING STEP 83
+2019-03-24 18:17:48,429 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:17:48,502 [final_agent_1_wrapper] INFO: STARTING STEP 84
+2019-03-24 18:17:48,504 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,579 [final_agent_1_wrapper] INFO: STARTING STEP 85
+2019-03-24 18:17:48,581 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:48,655 [final_agent_1_wrapper] INFO: STARTING STEP 86
+2019-03-24 18:17:48,657 [final_agent_1_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:17:48,731 [final_agent_1_wrapper] INFO: STARTING STEP 87
+2019-03-24 18:17:48,733 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:48,808 [final_agent_1_wrapper] INFO: STARTING STEP 88
+2019-03-24 18:17:48,811 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:48,885 [final_agent_1_wrapper] INFO: STARTING STEP 89
+2019-03-24 18:17:48,888 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:17:48,960 [final_agent_1_wrapper] INFO: STARTING STEP 90
+2019-03-24 18:17:48,962 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:49,037 [final_agent_1_wrapper] INFO: STARTING STEP 91
+2019-03-24 18:17:49,039 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:49,113 [final_agent_1_wrapper] INFO: STARTING STEP 92
+2019-03-24 18:17:49,115 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:49,189 [final_agent_1_wrapper] INFO: STARTING STEP 93
+2019-03-24 18:17:49,192 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:49,266 [final_agent_1_wrapper] INFO: STARTING STEP 94
+2019-03-24 18:17:49,267 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:49,342 [final_agent_1_wrapper] INFO: STARTING STEP 95
+2019-03-24 18:17:49,344 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:49,418 [final_agent_1_wrapper] INFO: STARTING STEP 96
+2019-03-24 18:17:49,421 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:49,494 [final_agent_1_wrapper] INFO: STARTING STEP 97
+2019-03-24 18:17:49,497 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:49,570 [final_agent_1_wrapper] INFO: STARTING STEP 98
+2019-03-24 18:17:49,572 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:17:49,647 [final_agent_1_wrapper] INFO: STARTING STEP 99
+2019-03-24 18:17:49,650 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:49,724 [final_agent_1_wrapper] INFO: STARTING STEP 100
+2019-03-24 18:17:49,726 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:49,800 [final_agent_1_wrapper] INFO: STARTING STEP 101
+2019-03-24 18:17:49,802 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:49,876 [final_agent_1_wrapper] INFO: STARTING STEP 102
+2019-03-24 18:17:49,878 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:17:49,952 [final_agent_1_wrapper] INFO: STARTING STEP 103
+2019-03-24 18:17:49,954 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:50,028 [final_agent_1_wrapper] INFO: STARTING STEP 104
+2019-03-24 18:17:50,030 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:50,105 [final_agent_1_wrapper] INFO: STARTING STEP 105
+2019-03-24 18:17:50,107 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:50,182 [final_agent_1_wrapper] INFO: STARTING STEP 106
+2019-03-24 18:17:50,184 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:17:50,258 [final_agent_1_wrapper] INFO: STARTING STEP 107
+2019-03-24 18:17:50,260 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:17:50,334 [final_agent_1_wrapper] INFO: STARTING STEP 108
+2019-03-24 18:17:50,337 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:50,411 [final_agent_1_wrapper] INFO: STARTING STEP 109
+2019-03-24 18:17:50,413 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:50,487 [final_agent_1_wrapper] INFO: STARTING STEP 110
+2019-03-24 18:17:50,490 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:50,569 [final_agent_1_wrapper] INFO: STARTING STEP 111
+2019-03-24 18:17:50,571 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:50,644 [final_agent_1_wrapper] INFO: STARTING STEP 112
+2019-03-24 18:17:50,646 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:50,721 [final_agent_1_wrapper] INFO: STARTING STEP 113
+2019-03-24 18:17:50,723 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:50,797 [final_agent_1_wrapper] INFO: STARTING STEP 114
+2019-03-24 18:17:50,799 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:50,873 [final_agent_1_wrapper] INFO: STARTING STEP 115
+2019-03-24 18:17:50,875 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:50,950 [final_agent_1_wrapper] INFO: STARTING STEP 116
+2019-03-24 18:17:50,952 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,026 [final_agent_1_wrapper] INFO: STARTING STEP 117
+2019-03-24 18:17:51,028 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,102 [final_agent_1_wrapper] INFO: STARTING STEP 118
+2019-03-24 18:17:51,104 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,177 [final_agent_1_wrapper] INFO: STARTING STEP 119
+2019-03-24 18:17:51,179 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,254 [final_agent_1_wrapper] INFO: STARTING STEP 120
+2019-03-24 18:17:51,257 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,331 [final_agent_1_wrapper] INFO: STARTING STEP 121
+2019-03-24 18:17:51,333 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,407 [final_agent_1_wrapper] INFO: STARTING STEP 122
+2019-03-24 18:17:51,408 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:17:51,483 [final_agent_1_wrapper] INFO: STARTING STEP 123
+2019-03-24 18:17:51,487 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:17:51,561 [final_agent_1_wrapper] INFO: STARTING STEP 124
+2019-03-24 18:17:51,563 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:51,638 [final_agent_1_wrapper] INFO: STARTING STEP 125
+2019-03-24 18:17:51,640 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:17:51,713 [final_agent_1_wrapper] INFO: STARTING STEP 126
+2019-03-24 18:17:51,715 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,789 [final_agent_1_wrapper] INFO: STARTING STEP 127
+2019-03-24 18:17:51,791 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,866 [final_agent_1_wrapper] INFO: STARTING STEP 128
+2019-03-24 18:17:51,868 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:51,942 [final_agent_1_wrapper] INFO: STARTING STEP 129
+2019-03-24 18:17:51,944 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,018 [final_agent_1_wrapper] INFO: STARTING STEP 130
+2019-03-24 18:17:52,021 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:52,094 [final_agent_1_wrapper] INFO: STARTING STEP 131
+2019-03-24 18:17:52,096 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,171 [final_agent_1_wrapper] INFO: STARTING STEP 132
+2019-03-24 18:17:52,173 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,247 [final_agent_1_wrapper] INFO: STARTING STEP 133
+2019-03-24 18:17:52,249 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,323 [final_agent_1_wrapper] INFO: STARTING STEP 134
+2019-03-24 18:17:52,325 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,399 [final_agent_1_wrapper] INFO: STARTING STEP 135
+2019-03-24 18:17:52,402 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,475 [final_agent_1_wrapper] INFO: STARTING STEP 136
+2019-03-24 18:17:52,477 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,552 [final_agent_1_wrapper] INFO: STARTING STEP 137
+2019-03-24 18:17:52,553 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:52,629 [final_agent_1_wrapper] INFO: STARTING STEP 138
+2019-03-24 18:17:52,631 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:52,713 [final_agent_1_wrapper] INFO: STARTING STEP 139
+2019-03-24 18:17:52,715 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,788 [final_agent_1_wrapper] INFO: STARTING STEP 140
+2019-03-24 18:17:52,790 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,864 [final_agent_1_wrapper] INFO: STARTING STEP 141
+2019-03-24 18:17:52,866 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:52,940 [final_agent_1_wrapper] INFO: STARTING STEP 142
+2019-03-24 18:17:52,942 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,016 [final_agent_1_wrapper] INFO: STARTING STEP 143
+2019-03-24 18:17:53,018 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,092 [final_agent_1_wrapper] INFO: STARTING STEP 144
+2019-03-24 18:17:53,094 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,168 [final_agent_1_wrapper] INFO: STARTING STEP 145
+2019-03-24 18:17:53,170 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,245 [final_agent_1_wrapper] INFO: STARTING STEP 146
+2019-03-24 18:17:53,247 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,321 [final_agent_1_wrapper] INFO: STARTING STEP 147
+2019-03-24 18:17:53,323 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,398 [final_agent_1_wrapper] INFO: STARTING STEP 148
+2019-03-24 18:17:53,400 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:53,474 [final_agent_1_wrapper] INFO: STARTING STEP 149
+2019-03-24 18:17:53,477 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,550 [final_agent_1_wrapper] INFO: STARTING STEP 150
+2019-03-24 18:17:53,553 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,626 [final_agent_1_wrapper] INFO: STARTING STEP 151
+2019-03-24 18:17:53,628 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,702 [final_agent_1_wrapper] INFO: STARTING STEP 152
+2019-03-24 18:17:53,705 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,779 [final_agent_1_wrapper] INFO: STARTING STEP 153
+2019-03-24 18:17:53,780 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,855 [final_agent_1_wrapper] INFO: STARTING STEP 154
+2019-03-24 18:17:53,857 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:53,931 [final_agent_1_wrapper] INFO: STARTING STEP 155
+2019-03-24 18:17:53,934 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,007 [final_agent_1_wrapper] INFO: STARTING STEP 156
+2019-03-24 18:17:54,009 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,083 [final_agent_1_wrapper] INFO: STARTING STEP 157
+2019-03-24 18:17:54,085 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,159 [final_agent_1_wrapper] INFO: STARTING STEP 158
+2019-03-24 18:17:54,161 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:54,235 [final_agent_1_wrapper] INFO: STARTING STEP 159
+2019-03-24 18:17:54,238 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:54,311 [final_agent_1_wrapper] INFO: STARTING STEP 160
+2019-03-24 18:17:54,314 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,388 [final_agent_1_wrapper] INFO: STARTING STEP 161
+2019-03-24 18:17:54,390 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,465 [final_agent_1_wrapper] INFO: STARTING STEP 162
+2019-03-24 18:17:54,466 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,541 [final_agent_1_wrapper] INFO: STARTING STEP 163
+2019-03-24 18:17:54,543 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,617 [final_agent_1_wrapper] INFO: STARTING STEP 164
+2019-03-24 18:17:54,619 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,693 [final_agent_1_wrapper] INFO: STARTING STEP 165
+2019-03-24 18:17:54,695 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,770 [final_agent_1_wrapper] INFO: STARTING STEP 166
+2019-03-24 18:17:54,772 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,847 [final_agent_1_wrapper] INFO: STARTING STEP 167
+2019-03-24 18:17:54,849 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:54,928 [final_agent_1_wrapper] INFO: STARTING STEP 168
+2019-03-24 18:17:54,930 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,004 [final_agent_1_wrapper] INFO: STARTING STEP 169
+2019-03-24 18:17:55,005 [final_agent_1_wrapper] INFO: Chose action WAIT after 0.000s of thinking
+2019-03-24 18:17:55,080 [final_agent_1_wrapper] INFO: STARTING STEP 170
+2019-03-24 18:17:55,082 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,157 [final_agent_1_wrapper] INFO: STARTING STEP 171
+2019-03-24 18:17:55,159 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,233 [final_agent_1_wrapper] INFO: STARTING STEP 172
+2019-03-24 18:17:55,236 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:55,310 [final_agent_1_wrapper] INFO: STARTING STEP 173
+2019-03-24 18:17:55,312 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,386 [final_agent_1_wrapper] INFO: STARTING STEP 174
+2019-03-24 18:17:55,389 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,462 [final_agent_1_wrapper] INFO: STARTING STEP 175
+2019-03-24 18:17:55,464 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,538 [final_agent_1_wrapper] INFO: STARTING STEP 176
+2019-03-24 18:17:55,540 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,615 [final_agent_1_wrapper] INFO: STARTING STEP 177
+2019-03-24 18:17:55,615 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:17:55,690 [final_agent_1_wrapper] INFO: STARTING STEP 178
+2019-03-24 18:17:55,692 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,767 [final_agent_1_wrapper] INFO: STARTING STEP 179
+2019-03-24 18:17:55,769 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,843 [final_agent_1_wrapper] INFO: STARTING STEP 180
+2019-03-24 18:17:55,845 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,919 [final_agent_1_wrapper] INFO: STARTING STEP 181
+2019-03-24 18:17:55,922 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:55,994 [final_agent_1_wrapper] INFO: STARTING STEP 182
+2019-03-24 18:17:55,997 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,071 [final_agent_1_wrapper] INFO: STARTING STEP 183
+2019-03-24 18:17:56,073 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,148 [final_agent_1_wrapper] INFO: STARTING STEP 184
+2019-03-24 18:17:56,150 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,224 [final_agent_1_wrapper] INFO: STARTING STEP 185
+2019-03-24 18:17:56,226 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,300 [final_agent_1_wrapper] INFO: STARTING STEP 186
+2019-03-24 18:17:56,302 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,376 [final_agent_1_wrapper] INFO: STARTING STEP 187
+2019-03-24 18:17:56,379 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,453 [final_agent_1_wrapper] INFO: STARTING STEP 188
+2019-03-24 18:17:56,455 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:56,529 [final_agent_1_wrapper] INFO: STARTING STEP 189
+2019-03-24 18:17:56,531 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,606 [final_agent_1_wrapper] INFO: STARTING STEP 190
+2019-03-24 18:17:56,607 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,682 [final_agent_1_wrapper] INFO: STARTING STEP 191
+2019-03-24 18:17:56,684 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,759 [final_agent_1_wrapper] INFO: STARTING STEP 192
+2019-03-24 18:17:56,761 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:56,835 [final_agent_1_wrapper] INFO: STARTING STEP 193
+2019-03-24 18:17:56,837 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,910 [final_agent_1_wrapper] INFO: STARTING STEP 194
+2019-03-24 18:17:56,913 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:56,993 [final_agent_1_wrapper] INFO: STARTING STEP 195
+2019-03-24 18:17:56,996 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,069 [final_agent_1_wrapper] INFO: STARTING STEP 196
+2019-03-24 18:17:57,071 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,145 [final_agent_1_wrapper] INFO: STARTING STEP 197
+2019-03-24 18:17:57,147 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,222 [final_agent_1_wrapper] INFO: STARTING STEP 198
+2019-03-24 18:17:57,224 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:57,299 [final_agent_1_wrapper] INFO: STARTING STEP 199
+2019-03-24 18:17:57,301 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,375 [final_agent_1_wrapper] INFO: STARTING STEP 200
+2019-03-24 18:17:57,377 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,452 [final_agent_1_wrapper] INFO: STARTING STEP 201
+2019-03-24 18:17:57,454 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,528 [final_agent_1_wrapper] INFO: STARTING STEP 202
+2019-03-24 18:17:57,530 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,605 [final_agent_1_wrapper] INFO: STARTING STEP 203
+2019-03-24 18:17:57,607 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,680 [final_agent_1_wrapper] INFO: STARTING STEP 204
+2019-03-24 18:17:57,682 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,756 [final_agent_1_wrapper] INFO: STARTING STEP 205
+2019-03-24 18:17:57,758 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,832 [final_agent_1_wrapper] INFO: STARTING STEP 206
+2019-03-24 18:17:57,834 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,908 [final_agent_1_wrapper] INFO: STARTING STEP 207
+2019-03-24 18:17:57,910 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:57,985 [final_agent_1_wrapper] INFO: STARTING STEP 208
+2019-03-24 18:17:57,988 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:17:58,061 [final_agent_1_wrapper] INFO: STARTING STEP 209
+2019-03-24 18:17:58,063 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,138 [final_agent_1_wrapper] INFO: STARTING STEP 210
+2019-03-24 18:17:58,140 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:58,214 [final_agent_1_wrapper] INFO: STARTING STEP 211
+2019-03-24 18:17:58,216 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,290 [final_agent_1_wrapper] INFO: STARTING STEP 212
+2019-03-24 18:17:58,291 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:58,366 [final_agent_1_wrapper] INFO: STARTING STEP 213
+2019-03-24 18:17:58,368 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,442 [final_agent_1_wrapper] INFO: STARTING STEP 214
+2019-03-24 18:17:58,444 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,519 [final_agent_1_wrapper] INFO: STARTING STEP 215
+2019-03-24 18:17:58,521 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,594 [final_agent_1_wrapper] INFO: STARTING STEP 216
+2019-03-24 18:17:58,596 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,671 [final_agent_1_wrapper] INFO: STARTING STEP 217
+2019-03-24 18:17:58,673 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,748 [final_agent_1_wrapper] INFO: STARTING STEP 218
+2019-03-24 18:17:58,750 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,824 [final_agent_1_wrapper] INFO: STARTING STEP 219
+2019-03-24 18:17:58,826 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,900 [final_agent_1_wrapper] INFO: STARTING STEP 220
+2019-03-24 18:17:58,902 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:58,977 [final_agent_1_wrapper] INFO: STARTING STEP 221
+2019-03-24 18:17:58,979 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,058 [final_agent_1_wrapper] INFO: STARTING STEP 222
+2019-03-24 18:17:59,060 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,134 [final_agent_1_wrapper] INFO: STARTING STEP 223
+2019-03-24 18:17:59,136 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,210 [final_agent_1_wrapper] INFO: STARTING STEP 224
+2019-03-24 18:17:59,212 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,286 [final_agent_1_wrapper] INFO: STARTING STEP 225
+2019-03-24 18:17:59,288 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,362 [final_agent_1_wrapper] INFO: STARTING STEP 226
+2019-03-24 18:17:59,364 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,438 [final_agent_1_wrapper] INFO: STARTING STEP 227
+2019-03-24 18:17:59,440 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,515 [final_agent_1_wrapper] INFO: STARTING STEP 228
+2019-03-24 18:17:59,517 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,591 [final_agent_1_wrapper] INFO: STARTING STEP 229
+2019-03-24 18:17:59,593 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,667 [final_agent_1_wrapper] INFO: STARTING STEP 230
+2019-03-24 18:17:59,669 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,743 [final_agent_1_wrapper] INFO: STARTING STEP 231
+2019-03-24 18:17:59,745 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:17:59,821 [final_agent_1_wrapper] INFO: STARTING STEP 232
+2019-03-24 18:17:59,823 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,897 [final_agent_1_wrapper] INFO: STARTING STEP 233
+2019-03-24 18:17:59,899 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:17:59,974 [final_agent_1_wrapper] INFO: STARTING STEP 234
+2019-03-24 18:17:59,976 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,050 [final_agent_1_wrapper] INFO: STARTING STEP 235
+2019-03-24 18:18:00,052 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,127 [final_agent_1_wrapper] INFO: STARTING STEP 236
+2019-03-24 18:18:00,129 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,204 [final_agent_1_wrapper] INFO: STARTING STEP 237
+2019-03-24 18:18:00,206 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:00,279 [final_agent_1_wrapper] INFO: STARTING STEP 238
+2019-03-24 18:18:00,281 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,355 [final_agent_1_wrapper] INFO: STARTING STEP 239
+2019-03-24 18:18:00,358 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,432 [final_agent_1_wrapper] INFO: STARTING STEP 240
+2019-03-24 18:18:00,434 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,508 [final_agent_1_wrapper] INFO: STARTING STEP 241
+2019-03-24 18:18:00,510 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,585 [final_agent_1_wrapper] INFO: STARTING STEP 242
+2019-03-24 18:18:00,587 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,661 [final_agent_1_wrapper] INFO: STARTING STEP 243
+2019-03-24 18:18:00,663 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,737 [final_agent_1_wrapper] INFO: STARTING STEP 244
+2019-03-24 18:18:00,740 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,813 [final_agent_1_wrapper] INFO: STARTING STEP 245
+2019-03-24 18:18:00,815 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,889 [final_agent_1_wrapper] INFO: STARTING STEP 246
+2019-03-24 18:18:00,892 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:00,965 [final_agent_1_wrapper] INFO: STARTING STEP 247
+2019-03-24 18:18:00,968 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,042 [final_agent_1_wrapper] INFO: STARTING STEP 248
+2019-03-24 18:18:01,044 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,118 [final_agent_1_wrapper] INFO: STARTING STEP 249
+2019-03-24 18:18:01,120 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,194 [final_agent_1_wrapper] INFO: STARTING STEP 250
+2019-03-24 18:18:01,196 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,270 [final_agent_1_wrapper] INFO: STARTING STEP 251
+2019-03-24 18:18:01,273 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,353 [final_agent_1_wrapper] INFO: STARTING STEP 252
+2019-03-24 18:18:01,355 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:01,429 [final_agent_1_wrapper] INFO: STARTING STEP 253
+2019-03-24 18:18:01,431 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,504 [final_agent_1_wrapper] INFO: STARTING STEP 254
+2019-03-24 18:18:01,506 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:01,580 [final_agent_1_wrapper] INFO: STARTING STEP 255
+2019-03-24 18:18:01,582 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,657 [final_agent_1_wrapper] INFO: STARTING STEP 256
+2019-03-24 18:18:01,659 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,734 [final_agent_1_wrapper] INFO: STARTING STEP 257
+2019-03-24 18:18:01,737 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:01,809 [final_agent_1_wrapper] INFO: STARTING STEP 258
+2019-03-24 18:18:01,811 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,886 [final_agent_1_wrapper] INFO: STARTING STEP 259
+2019-03-24 18:18:01,888 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:01,961 [final_agent_1_wrapper] INFO: STARTING STEP 260
+2019-03-24 18:18:01,963 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:02,038 [final_agent_1_wrapper] INFO: STARTING STEP 261
+2019-03-24 18:18:02,040 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:02,114 [final_agent_1_wrapper] INFO: STARTING STEP 262
+2019-03-24 18:18:02,116 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,190 [final_agent_1_wrapper] INFO: STARTING STEP 263
+2019-03-24 18:18:02,192 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,266 [final_agent_1_wrapper] INFO: STARTING STEP 264
+2019-03-24 18:18:02,268 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,342 [final_agent_1_wrapper] INFO: STARTING STEP 265
+2019-03-24 18:18:02,349 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-24 18:18:02,418 [final_agent_1_wrapper] INFO: STARTING STEP 266
+2019-03-24 18:18:02,421 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,494 [final_agent_1_wrapper] INFO: STARTING STEP 267
+2019-03-24 18:18:02,496 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,571 [final_agent_1_wrapper] INFO: STARTING STEP 268
+2019-03-24 18:18:02,573 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,647 [final_agent_1_wrapper] INFO: STARTING STEP 269
+2019-03-24 18:18:02,649 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,724 [final_agent_1_wrapper] INFO: STARTING STEP 270
+2019-03-24 18:18:02,726 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,801 [final_agent_1_wrapper] INFO: STARTING STEP 271
+2019-03-24 18:18:02,803 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,878 [final_agent_1_wrapper] INFO: STARTING STEP 272
+2019-03-24 18:18:02,880 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:02,954 [final_agent_1_wrapper] INFO: STARTING STEP 273
+2019-03-24 18:18:02,956 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,030 [final_agent_1_wrapper] INFO: STARTING STEP 274
+2019-03-24 18:18:03,033 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,106 [final_agent_1_wrapper] INFO: STARTING STEP 275
+2019-03-24 18:18:03,108 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,182 [final_agent_1_wrapper] INFO: STARTING STEP 276
+2019-03-24 18:18:03,184 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,259 [final_agent_1_wrapper] INFO: STARTING STEP 277
+2019-03-24 18:18:03,261 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,334 [final_agent_1_wrapper] INFO: STARTING STEP 278
+2019-03-24 18:18:03,335 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:18:03,416 [final_agent_1_wrapper] INFO: STARTING STEP 279
+2019-03-24 18:18:03,418 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:03,493 [final_agent_1_wrapper] INFO: STARTING STEP 280
+2019-03-24 18:18:03,495 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,569 [final_agent_1_wrapper] INFO: STARTING STEP 281
+2019-03-24 18:18:03,571 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,644 [final_agent_1_wrapper] INFO: STARTING STEP 282
+2019-03-24 18:18:03,646 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,721 [final_agent_1_wrapper] INFO: STARTING STEP 283
+2019-03-24 18:18:03,722 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,796 [final_agent_1_wrapper] INFO: STARTING STEP 284
+2019-03-24 18:18:03,799 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,873 [final_agent_1_wrapper] INFO: STARTING STEP 285
+2019-03-24 18:18:03,875 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:03,949 [final_agent_1_wrapper] INFO: STARTING STEP 286
+2019-03-24 18:18:03,951 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,026 [final_agent_1_wrapper] INFO: STARTING STEP 287
+2019-03-24 18:18:04,028 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,102 [final_agent_1_wrapper] INFO: STARTING STEP 288
+2019-03-24 18:18:04,106 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:18:04,177 [final_agent_1_wrapper] INFO: STARTING STEP 289
+2019-03-24 18:18:04,180 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,255 [final_agent_1_wrapper] INFO: STARTING STEP 290
+2019-03-24 18:18:04,257 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,331 [final_agent_1_wrapper] INFO: STARTING STEP 291
+2019-03-24 18:18:04,333 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,407 [final_agent_1_wrapper] INFO: STARTING STEP 292
+2019-03-24 18:18:04,410 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,484 [final_agent_1_wrapper] INFO: STARTING STEP 293
+2019-03-24 18:18:04,486 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,560 [final_agent_1_wrapper] INFO: STARTING STEP 294
+2019-03-24 18:18:04,562 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,636 [final_agent_1_wrapper] INFO: STARTING STEP 295
+2019-03-24 18:18:04,638 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,711 [final_agent_1_wrapper] INFO: STARTING STEP 296
+2019-03-24 18:18:04,713 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,788 [final_agent_1_wrapper] INFO: STARTING STEP 297
+2019-03-24 18:18:04,794 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-24 18:18:04,864 [final_agent_1_wrapper] INFO: STARTING STEP 298
+2019-03-24 18:18:04,866 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:04,940 [final_agent_1_wrapper] INFO: STARTING STEP 299
+2019-03-24 18:18:04,942 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:05,016 [final_agent_1_wrapper] INFO: STARTING STEP 300
+2019-03-24 18:18:05,019 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,093 [final_agent_1_wrapper] INFO: STARTING STEP 301
+2019-03-24 18:18:05,095 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,169 [final_agent_1_wrapper] INFO: STARTING STEP 302
+2019-03-24 18:18:05,171 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,245 [final_agent_1_wrapper] INFO: STARTING STEP 303
+2019-03-24 18:18:05,248 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,322 [final_agent_1_wrapper] INFO: STARTING STEP 304
+2019-03-24 18:18:05,324 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,398 [final_agent_1_wrapper] INFO: STARTING STEP 305
+2019-03-24 18:18:05,400 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,474 [final_agent_1_wrapper] INFO: STARTING STEP 306
+2019-03-24 18:18:05,476 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,557 [final_agent_1_wrapper] INFO: STARTING STEP 307
+2019-03-24 18:18:05,559 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,632 [final_agent_1_wrapper] INFO: STARTING STEP 308
+2019-03-24 18:18:05,634 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,708 [final_agent_1_wrapper] INFO: STARTING STEP 309
+2019-03-24 18:18:05,710 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,783 [final_agent_1_wrapper] INFO: STARTING STEP 310
+2019-03-24 18:18:05,785 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,861 [final_agent_1_wrapper] INFO: STARTING STEP 311
+2019-03-24 18:18:05,863 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:05,937 [final_agent_1_wrapper] INFO: STARTING STEP 312
+2019-03-24 18:18:05,940 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,013 [final_agent_1_wrapper] INFO: STARTING STEP 313
+2019-03-24 18:18:06,015 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,090 [final_agent_1_wrapper] INFO: STARTING STEP 314
+2019-03-24 18:18:06,092 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,166 [final_agent_1_wrapper] INFO: STARTING STEP 315
+2019-03-24 18:18:06,168 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,242 [final_agent_1_wrapper] INFO: STARTING STEP 316
+2019-03-24 18:18:06,245 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,319 [final_agent_1_wrapper] INFO: STARTING STEP 317
+2019-03-24 18:18:06,322 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:06,396 [final_agent_1_wrapper] INFO: STARTING STEP 318
+2019-03-24 18:18:06,398 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,472 [final_agent_1_wrapper] INFO: STARTING STEP 319
+2019-03-24 18:18:06,474 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,548 [final_agent_1_wrapper] INFO: STARTING STEP 320
+2019-03-24 18:18:06,550 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,623 [final_agent_1_wrapper] INFO: STARTING STEP 321
+2019-03-24 18:18:06,625 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,700 [final_agent_1_wrapper] INFO: STARTING STEP 322
+2019-03-24 18:18:06,702 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,776 [final_agent_1_wrapper] INFO: STARTING STEP 323
+2019-03-24 18:18:06,779 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,852 [final_agent_1_wrapper] INFO: STARTING STEP 324
+2019-03-24 18:18:06,855 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:06,929 [final_agent_1_wrapper] INFO: STARTING STEP 325
+2019-03-24 18:18:06,932 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,006 [final_agent_1_wrapper] INFO: STARTING STEP 326
+2019-03-24 18:18:07,008 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,083 [final_agent_1_wrapper] INFO: STARTING STEP 327
+2019-03-24 18:18:07,085 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,159 [final_agent_1_wrapper] INFO: STARTING STEP 328
+2019-03-24 18:18:07,161 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,236 [final_agent_1_wrapper] INFO: STARTING STEP 329
+2019-03-24 18:18:07,238 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,312 [final_agent_1_wrapper] INFO: STARTING STEP 330
+2019-03-24 18:18:07,314 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:07,389 [final_agent_1_wrapper] INFO: STARTING STEP 331
+2019-03-24 18:18:07,391 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:07,472 [final_agent_1_wrapper] INFO: STARTING STEP 332
+2019-03-24 18:18:07,474 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,547 [final_agent_1_wrapper] INFO: STARTING STEP 333
+2019-03-24 18:18:07,549 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,624 [final_agent_1_wrapper] INFO: STARTING STEP 334
+2019-03-24 18:18:07,625 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,700 [final_agent_1_wrapper] INFO: STARTING STEP 335
+2019-03-24 18:18:07,702 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,776 [final_agent_1_wrapper] INFO: STARTING STEP 336
+2019-03-24 18:18:07,779 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,852 [final_agent_1_wrapper] INFO: STARTING STEP 337
+2019-03-24 18:18:07,855 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:07,929 [final_agent_1_wrapper] INFO: STARTING STEP 338
+2019-03-24 18:18:07,932 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,005 [final_agent_1_wrapper] INFO: STARTING STEP 339
+2019-03-24 18:18:08,007 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,082 [final_agent_1_wrapper] INFO: STARTING STEP 340
+2019-03-24 18:18:08,084 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,158 [final_agent_1_wrapper] INFO: STARTING STEP 341
+2019-03-24 18:18:08,160 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:08,234 [final_agent_1_wrapper] INFO: STARTING STEP 342
+2019-03-24 18:18:08,236 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,310 [final_agent_1_wrapper] INFO: STARTING STEP 343
+2019-03-24 18:18:08,312 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,387 [final_agent_1_wrapper] INFO: STARTING STEP 344
+2019-03-24 18:18:08,389 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,463 [final_agent_1_wrapper] INFO: STARTING STEP 345
+2019-03-24 18:18:08,465 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,539 [final_agent_1_wrapper] INFO: STARTING STEP 346
+2019-03-24 18:18:08,541 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,615 [final_agent_1_wrapper] INFO: STARTING STEP 347
+2019-03-24 18:18:08,617 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,691 [final_agent_1_wrapper] INFO: STARTING STEP 348
+2019-03-24 18:18:08,693 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,767 [final_agent_1_wrapper] INFO: STARTING STEP 349
+2019-03-24 18:18:08,769 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,843 [final_agent_1_wrapper] INFO: STARTING STEP 350
+2019-03-24 18:18:08,845 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,919 [final_agent_1_wrapper] INFO: STARTING STEP 351
+2019-03-24 18:18:08,921 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:08,995 [final_agent_1_wrapper] INFO: STARTING STEP 352
+2019-03-24 18:18:08,997 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,071 [final_agent_1_wrapper] INFO: STARTING STEP 353
+2019-03-24 18:18:09,073 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,148 [final_agent_1_wrapper] INFO: STARTING STEP 354
+2019-03-24 18:18:09,151 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,225 [final_agent_1_wrapper] INFO: STARTING STEP 355
+2019-03-24 18:18:09,227 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,301 [final_agent_1_wrapper] INFO: STARTING STEP 356
+2019-03-24 18:18:09,302 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:09,378 [final_agent_1_wrapper] INFO: STARTING STEP 357
+2019-03-24 18:18:09,380 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,454 [final_agent_1_wrapper] INFO: STARTING STEP 358
+2019-03-24 18:18:09,456 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,530 [final_agent_1_wrapper] INFO: STARTING STEP 359
+2019-03-24 18:18:09,532 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,606 [final_agent_1_wrapper] INFO: STARTING STEP 360
+2019-03-24 18:18:09,609 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:09,681 [final_agent_1_wrapper] INFO: STARTING STEP 361
+2019-03-24 18:18:09,683 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,763 [final_agent_1_wrapper] INFO: STARTING STEP 362
+2019-03-24 18:18:09,766 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,840 [final_agent_1_wrapper] INFO: STARTING STEP 363
+2019-03-24 18:18:09,842 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,916 [final_agent_1_wrapper] INFO: STARTING STEP 364
+2019-03-24 18:18:09,918 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:09,992 [final_agent_1_wrapper] INFO: STARTING STEP 365
+2019-03-24 18:18:09,994 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,068 [final_agent_1_wrapper] INFO: STARTING STEP 366
+2019-03-24 18:18:10,070 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,145 [final_agent_1_wrapper] INFO: STARTING STEP 367
+2019-03-24 18:18:10,147 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,221 [final_agent_1_wrapper] INFO: STARTING STEP 368
+2019-03-24 18:18:10,223 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,298 [final_agent_1_wrapper] INFO: STARTING STEP 369
+2019-03-24 18:18:10,300 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,374 [final_agent_1_wrapper] INFO: STARTING STEP 370
+2019-03-24 18:18:10,376 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,451 [final_agent_1_wrapper] INFO: STARTING STEP 371
+2019-03-24 18:18:10,453 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,527 [final_agent_1_wrapper] INFO: STARTING STEP 372
+2019-03-24 18:18:10,529 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,604 [final_agent_1_wrapper] INFO: STARTING STEP 373
+2019-03-24 18:18:10,607 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,680 [final_agent_1_wrapper] INFO: STARTING STEP 374
+2019-03-24 18:18:10,683 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,757 [final_agent_1_wrapper] INFO: STARTING STEP 375
+2019-03-24 18:18:10,759 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,833 [final_agent_1_wrapper] INFO: STARTING STEP 376
+2019-03-24 18:18:10,837 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:10,910 [final_agent_1_wrapper] INFO: STARTING STEP 377
+2019-03-24 18:18:10,912 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:10,986 [final_agent_1_wrapper] INFO: STARTING STEP 378
+2019-03-24 18:18:10,989 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,062 [final_agent_1_wrapper] INFO: STARTING STEP 379
+2019-03-24 18:18:11,064 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,138 [final_agent_1_wrapper] INFO: STARTING STEP 380
+2019-03-24 18:18:11,141 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,214 [final_agent_1_wrapper] INFO: STARTING STEP 381
+2019-03-24 18:18:11,216 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,290 [final_agent_1_wrapper] INFO: STARTING STEP 382
+2019-03-24 18:18:11,292 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,367 [final_agent_1_wrapper] INFO: STARTING STEP 383
+2019-03-24 18:18:11,369 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,443 [final_agent_1_wrapper] INFO: STARTING STEP 384
+2019-03-24 18:18:11,446 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,520 [final_agent_1_wrapper] INFO: STARTING STEP 385
+2019-03-24 18:18:11,522 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:11,596 [final_agent_1_wrapper] INFO: STARTING STEP 386
+2019-03-24 18:18:11,598 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,672 [final_agent_1_wrapper] INFO: STARTING STEP 387
+2019-03-24 18:18:11,674 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,748 [final_agent_1_wrapper] INFO: STARTING STEP 388
+2019-03-24 18:18:11,751 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:11,824 [final_agent_1_wrapper] INFO: STARTING STEP 389
+2019-03-24 18:18:11,826 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,906 [final_agent_1_wrapper] INFO: STARTING STEP 390
+2019-03-24 18:18:11,908 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:11,982 [final_agent_1_wrapper] INFO: STARTING STEP 391
+2019-03-24 18:18:11,984 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,057 [final_agent_1_wrapper] INFO: STARTING STEP 392
+2019-03-24 18:18:12,059 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,133 [final_agent_1_wrapper] INFO: STARTING STEP 393
+2019-03-24 18:18:12,135 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,209 [final_agent_1_wrapper] INFO: STARTING STEP 394
+2019-03-24 18:18:12,212 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,285 [final_agent_1_wrapper] INFO: STARTING STEP 395
+2019-03-24 18:18:12,287 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,361 [final_agent_1_wrapper] INFO: STARTING STEP 396
+2019-03-24 18:18:12,363 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:12,438 [final_agent_1_wrapper] INFO: STARTING STEP 397
+2019-03-24 18:18:12,440 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,514 [final_agent_1_wrapper] INFO: STARTING STEP 398
+2019-03-24 18:18:12,516 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,590 [final_agent_1_wrapper] INFO: STARTING STEP 399
+2019-03-24 18:18:12,592 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:12,668 [final_agent_1_wrapper] INFO: STARTING STEP 400
+2019-03-24 18:18:12,669 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:12,748 [final_agent_1_wrapper] INFO: Received exit message for round
+2019-03-24 18:18:12,748 [final_agent_1_wrapper] INFO: Round #1 finished
+2019-03-24 18:18:13,679 [final_agent_1_wrapper] INFO: STARTING ROUND #2
+2019-03-24 18:18:13,729 [final_agent_1_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:18:13,732 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:13,805 [final_agent_1_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:18:13,809 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:18:13,882 [final_agent_1_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:18:13,884 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:13,958 [final_agent_1_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:18:13,962 [final_agent_1_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:18:14,034 [final_agent_1_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:18:14,038 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:14,110 [final_agent_1_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:18:14,113 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:14,186 [final_agent_1_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:18:14,189 [final_agent_1_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:18:14,263 [final_agent_1_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:18:14,266 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:18:14,340 [final_agent_1_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:18:14,342 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:14,415 [final_agent_1_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:18:14,418 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:14,491 [final_agent_1_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:18:14,494 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:14,567 [final_agent_1_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:18:14,571 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:14,644 [final_agent_1_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:18:14,648 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:14,720 [final_agent_1_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:18:14,723 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:14,796 [final_agent_1_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:18:14,799 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:14,872 [final_agent_1_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:18:14,874 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:14,948 [final_agent_1_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:18:14,952 [final_agent_1_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:18:15,025 [final_agent_1_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:18:15,029 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:15,101 [final_agent_1_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:18:15,104 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:15,178 [final_agent_1_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:18:15,180 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:15,255 [final_agent_1_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:18:15,258 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:15,330 [final_agent_1_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:18:15,332 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:15,407 [final_agent_1_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:18:15,411 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:18:15,483 [final_agent_1_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:18:15,485 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:15,558 [final_agent_1_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:18:15,561 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:15,634 [final_agent_1_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:18:15,637 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:15,711 [final_agent_1_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:18:15,713 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:15,787 [final_agent_1_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:18:15,789 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:15,863 [final_agent_1_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:18:15,866 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:15,940 [final_agent_1_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:18:15,942 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:16,017 [final_agent_1_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:18:16,020 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:16,101 [final_agent_1_wrapper] INFO: Received exit message for round
+2019-03-24 18:18:16,101 [final_agent_1_wrapper] INFO: Round #2 finished
+2019-03-24 18:18:16,516 [final_agent_1_wrapper] INFO: STARTING ROUND #3
+2019-03-24 18:18:16,556 [final_agent_1_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:18:16,560 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:18:16,632 [final_agent_1_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:18:16,635 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:16,709 [final_agent_1_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:18:16,711 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:16,785 [final_agent_1_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:18:16,789 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:16,861 [final_agent_1_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:18:16,864 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:16,939 [final_agent_1_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:18:16,941 [final_agent_1_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:18:17,015 [final_agent_1_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:18:17,019 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:17,092 [final_agent_1_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:18:17,094 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:18:17,168 [final_agent_1_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:18:17,171 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:17,244 [final_agent_1_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:18:17,246 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:17,321 [final_agent_1_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:18:17,324 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:17,397 [final_agent_1_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:18:17,401 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:17,474 [final_agent_1_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:18:17,477 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:17,549 [final_agent_1_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:18:17,552 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:17,625 [final_agent_1_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:18:17,628 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:17,702 [final_agent_1_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:18:17,707 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:18:17,779 [final_agent_1_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:18:17,781 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:17,856 [final_agent_1_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:18:17,858 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:17,932 [final_agent_1_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:18:17,934 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:18,008 [final_agent_1_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:18:18,010 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:18,084 [final_agent_1_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:18:18,087 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:18,161 [final_agent_1_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:18:18,164 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:18,237 [final_agent_1_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:18:18,241 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:18,313 [final_agent_1_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:18:18,316 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:18,390 [final_agent_1_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:18:18,393 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:18,466 [final_agent_1_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:18:18,470 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:18:18,542 [final_agent_1_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:18:18,545 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:18,619 [final_agent_1_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:18:18,624 [final_agent_1_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:18:18,695 [final_agent_1_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:18:18,698 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:18,771 [final_agent_1_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:18:18,774 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:18,847 [final_agent_1_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:18:18,851 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:18,924 [final_agent_1_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:18:18,927 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:19,001 [final_agent_1_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:18:19,003 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:19,077 [final_agent_1_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:18:19,080 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:19,153 [final_agent_1_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:18:19,158 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:18:19,230 [final_agent_1_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:18:19,234 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:19,308 [final_agent_1_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:18:19,312 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:19,384 [final_agent_1_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:18:19,386 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:19,461 [final_agent_1_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:18:19,463 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:19,537 [final_agent_1_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:18:19,541 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:19,614 [final_agent_1_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:18:19,617 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:19,690 [final_agent_1_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:18:19,692 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:19,767 [final_agent_1_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:18:19,771 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:18:19,844 [final_agent_1_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:18:19,847 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:19,921 [final_agent_1_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:18:19,923 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:19,997 [final_agent_1_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:18:20,000 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:20,073 [final_agent_1_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:18:20,077 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:20,150 [final_agent_1_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:18:20,154 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:20,227 [final_agent_1_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:18:20,229 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:20,303 [final_agent_1_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:18:20,307 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:20,380 [final_agent_1_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:18:20,383 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:20,457 [final_agent_1_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:18:20,459 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:20,533 [final_agent_1_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:18:20,537 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:20,609 [final_agent_1_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:18:20,612 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:20,686 [final_agent_1_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:18:20,688 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:20,762 [final_agent_1_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:18:20,765 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:20,838 [final_agent_1_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:18:20,842 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:20,914 [final_agent_1_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:18:20,916 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:20,991 [final_agent_1_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:18:20,993 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:21,067 [final_agent_1_wrapper] INFO: STARTING STEP 60
+2019-03-24 18:18:21,070 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:18:21,144 [final_agent_1_wrapper] INFO: STARTING STEP 61
+2019-03-24 18:18:21,146 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:21,219 [final_agent_1_wrapper] INFO: STARTING STEP 62
+2019-03-24 18:18:21,221 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:21,295 [final_agent_1_wrapper] INFO: STARTING STEP 63
+2019-03-24 18:18:21,298 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:21,371 [final_agent_1_wrapper] INFO: STARTING STEP 64
+2019-03-24 18:18:21,374 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:21,447 [final_agent_1_wrapper] INFO: STARTING STEP 65
+2019-03-24 18:18:21,451 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:21,524 [final_agent_1_wrapper] INFO: STARTING STEP 66
+2019-03-24 18:18:21,526 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:21,600 [final_agent_1_wrapper] INFO: STARTING STEP 67
+2019-03-24 18:18:21,603 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:21,677 [final_agent_1_wrapper] INFO: STARTING STEP 68
+2019-03-24 18:18:21,680 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:21,753 [final_agent_1_wrapper] INFO: STARTING STEP 69
+2019-03-24 18:18:21,757 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:21,829 [final_agent_1_wrapper] INFO: STARTING STEP 70
+2019-03-24 18:18:21,832 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:21,905 [final_agent_1_wrapper] INFO: STARTING STEP 71
+2019-03-24 18:18:21,908 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:21,982 [final_agent_1_wrapper] INFO: STARTING STEP 72
+2019-03-24 18:18:21,986 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:22,058 [final_agent_1_wrapper] INFO: STARTING STEP 73
+2019-03-24 18:18:22,061 [final_agent_1_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:18:22,135 [final_agent_1_wrapper] INFO: STARTING STEP 74
+2019-03-24 18:18:22,137 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:22,211 [final_agent_1_wrapper] INFO: STARTING STEP 75
+2019-03-24 18:18:22,214 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:22,288 [final_agent_1_wrapper] INFO: STARTING STEP 76
+2019-03-24 18:18:22,291 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:22,365 [final_agent_1_wrapper] INFO: STARTING STEP 77
+2019-03-24 18:18:22,368 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:22,441 [final_agent_1_wrapper] INFO: STARTING STEP 78
+2019-03-24 18:18:22,443 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:18:22,524 [final_agent_1_wrapper] INFO: STARTING STEP 79
+2019-03-24 18:18:22,526 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:22,599 [final_agent_1_wrapper] INFO: STARTING STEP 80
+2019-03-24 18:18:22,603 [final_agent_1_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:18:22,675 [final_agent_1_wrapper] INFO: STARTING STEP 81
+2019-03-24 18:18:22,677 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:22,751 [final_agent_1_wrapper] INFO: STARTING STEP 82
+2019-03-24 18:18:22,756 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:18:22,827 [final_agent_1_wrapper] INFO: STARTING STEP 83
+2019-03-24 18:18:22,830 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:22,903 [final_agent_1_wrapper] INFO: STARTING STEP 84
+2019-03-24 18:18:22,907 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:22,981 [final_agent_1_wrapper] INFO: STARTING STEP 85
+2019-03-24 18:18:22,983 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:23,057 [final_agent_1_wrapper] INFO: STARTING STEP 86
+2019-03-24 18:18:23,059 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:23,134 [final_agent_1_wrapper] INFO: STARTING STEP 87
+2019-03-24 18:18:23,136 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:23,209 [final_agent_1_wrapper] INFO: STARTING STEP 88
+2019-03-24 18:18:23,212 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:23,286 [final_agent_1_wrapper] INFO: STARTING STEP 89
+2019-03-24 18:18:23,288 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:23,362 [final_agent_1_wrapper] INFO: STARTING STEP 90
+2019-03-24 18:18:23,365 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:18:23,438 [final_agent_1_wrapper] INFO: STARTING STEP 91
+2019-03-24 18:18:23,442 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:23,514 [final_agent_1_wrapper] INFO: STARTING STEP 92
+2019-03-24 18:18:23,518 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:23,590 [final_agent_1_wrapper] INFO: STARTING STEP 93
+2019-03-24 18:18:23,594 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:18:23,667 [final_agent_1_wrapper] INFO: STARTING STEP 94
+2019-03-24 18:18:23,670 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:23,743 [final_agent_1_wrapper] INFO: STARTING STEP 95
+2019-03-24 18:18:23,746 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:23,819 [final_agent_1_wrapper] INFO: STARTING STEP 96
+2019-03-24 18:18:23,823 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:23,896 [final_agent_1_wrapper] INFO: STARTING STEP 97
+2019-03-24 18:18:23,898 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:23,972 [final_agent_1_wrapper] INFO: STARTING STEP 98
+2019-03-24 18:18:23,974 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:24,049 [final_agent_1_wrapper] INFO: STARTING STEP 99
+2019-03-24 18:18:24,052 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:18:24,125 [final_agent_1_wrapper] INFO: STARTING STEP 100
+2019-03-24 18:18:24,127 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:24,202 [final_agent_1_wrapper] INFO: STARTING STEP 101
+2019-03-24 18:18:24,204 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:24,279 [final_agent_1_wrapper] INFO: STARTING STEP 102
+2019-03-24 18:18:24,281 [final_agent_1_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:18:24,355 [final_agent_1_wrapper] INFO: STARTING STEP 103
+2019-03-24 18:18:24,358 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:24,431 [final_agent_1_wrapper] INFO: STARTING STEP 104
+2019-03-24 18:18:24,434 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:24,508 [final_agent_1_wrapper] INFO: STARTING STEP 105
+2019-03-24 18:18:24,510 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:18:24,584 [final_agent_1_wrapper] INFO: STARTING STEP 106
+2019-03-24 18:18:24,587 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:24,660 [final_agent_1_wrapper] INFO: STARTING STEP 107
+2019-03-24 18:18:24,662 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:18:24,736 [final_agent_1_wrapper] INFO: STARTING STEP 108
+2019-03-24 18:18:24,739 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:24,812 [final_agent_1_wrapper] INFO: STARTING STEP 109
+2019-03-24 18:18:24,813 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:18:24,888 [final_agent_1_wrapper] INFO: STARTING STEP 110
+2019-03-24 18:18:24,890 [final_agent_1_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:18:24,965 [final_agent_1_wrapper] INFO: STARTING STEP 111
+2019-03-24 18:18:24,968 [final_agent_1_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:18:25,041 [final_agent_1_wrapper] INFO: STARTING STEP 112
+2019-03-24 18:18:25,043 [final_agent_1_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:18:25,125 [final_agent_1_wrapper] INFO: STARTING STEP 113
+2019-03-24 18:18:25,127 [final_agent_1_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:18:25,200 [final_agent_1_wrapper] INFO: STARTING STEP 114
+2019-03-24 18:18:25,202 [final_agent_1_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:18:25,277 [final_agent_1_wrapper] INFO: STARTING STEP 115
+2019-03-24 18:18:25,279 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:18:25,353 [final_agent_1_wrapper] INFO: STARTING STEP 116
+2019-03-24 18:18:25,357 [final_agent_1_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:18:25,363 [final_agent_1_wrapper] INFO: Received exit message for round
+2019-03-24 18:18:25,364 [final_agent_1_wrapper] INFO: Round #3 finished
+2019-03-24 18:18:42,077 [final_agent_1_wrapper] INFO: Received global exit message
+2019-03-24 18:18:42,078 [final_agent_1_wrapper] INFO: SHUT DOWN

@@ -1,0 +1,922 @@
+2019-03-24 18:21:41,728 [self_play_agent_0_wrapper] INFO: Import agent code from "agent_code/self_play_agent/callbacks.py"
+2019-03-24 18:21:44,775 [self_play_agent_0_wrapper] INFO: Initialize agent code
+2019-03-24 18:21:54,027 [self_play_agent_0_wrapper] INFO: STARTING ROUND #1
+2019-03-24 18:21:54,103 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:21:54,155 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.052s of thinking
+2019-03-24 18:21:54,179 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:21:54,182 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:54,255 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:21:54,258 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:54,332 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:21:54,335 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:54,408 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:21:54,410 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:54,483 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:21:54,486 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:54,559 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:21:54,562 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:54,636 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:21:54,638 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:54,712 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:21:54,715 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:54,788 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:21:54,790 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:54,865 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:21:54,867 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:54,942 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:21:54,944 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:55,018 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:21:55,020 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:55,094 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:21:55,098 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:21:55,170 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:21:55,171 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 18:21:55,247 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:21:55,249 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:55,324 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:21:55,327 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:55,399 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:21:55,401 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:55,475 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:21:55,476 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:21:55,550 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:21:55,553 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:55,627 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:21:55,629 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:55,702 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:21:55,706 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:21:55,779 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:21:55,781 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:55,855 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:21:55,860 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:21:55,932 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:21:55,934 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:56,008 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:21:56,011 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:56,084 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:21:56,086 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:56,160 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:21:56,163 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:56,236 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:21:56,239 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:56,312 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:21:56,315 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:56,389 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:21:56,392 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:56,466 [self_play_agent_0_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:21:56,469 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:56,542 [self_play_agent_0_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:21:56,545 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:21:56,618 [self_play_agent_0_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:21:56,621 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:56,695 [self_play_agent_0_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:21:56,698 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:56,771 [self_play_agent_0_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:21:56,776 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:21:56,847 [self_play_agent_0_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:21:56,849 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:21:56,924 [self_play_agent_0_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:21:56,927 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:57,000 [self_play_agent_0_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:21:57,002 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:57,076 [self_play_agent_0_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:21:57,079 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:57,153 [self_play_agent_0_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:21:57,156 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:21:57,229 [self_play_agent_0_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:21:57,231 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:57,305 [self_play_agent_0_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:21:57,310 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:21:57,381 [self_play_agent_0_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:21:57,384 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:57,459 [self_play_agent_0_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:21:57,462 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:57,535 [self_play_agent_0_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:21:57,537 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:57,611 [self_play_agent_0_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:21:57,612 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-24 18:21:57,687 [self_play_agent_0_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:21:57,691 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:21:57,764 [self_play_agent_0_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:21:57,766 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:21:57,840 [self_play_agent_0_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:21:57,843 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:21:57,915 [self_play_agent_0_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:21:57,918 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:21:57,992 [self_play_agent_0_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:21:57,995 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:58,068 [self_play_agent_0_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:21:58,071 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:21:58,144 [self_play_agent_0_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:21:58,147 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:58,220 [self_play_agent_0_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:21:58,223 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:58,297 [self_play_agent_0_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:21:58,300 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:21:58,374 [self_play_agent_0_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:21:58,376 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:58,450 [self_play_agent_0_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:21:58,452 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:58,527 [self_play_agent_0_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:21:58,529 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:58,602 [self_play_agent_0_wrapper] INFO: STARTING STEP 60
+2019-03-24 18:21:58,605 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:21:58,679 [self_play_agent_0_wrapper] INFO: STARTING STEP 61
+2019-03-24 18:21:58,681 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:21:58,756 [self_play_agent_0_wrapper] INFO: STARTING STEP 62
+2019-03-24 18:21:58,758 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:21:58,832 [self_play_agent_0_wrapper] INFO: STARTING STEP 63
+2019-03-24 18:21:58,834 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:58,908 [self_play_agent_0_wrapper] INFO: STARTING STEP 64
+2019-03-24 18:21:58,910 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:21:58,985 [self_play_agent_0_wrapper] INFO: STARTING STEP 65
+2019-03-24 18:21:58,987 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:59,060 [self_play_agent_0_wrapper] INFO: STARTING STEP 66
+2019-03-24 18:21:59,062 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:59,137 [self_play_agent_0_wrapper] INFO: STARTING STEP 67
+2019-03-24 18:21:59,139 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:59,214 [self_play_agent_0_wrapper] INFO: STARTING STEP 68
+2019-03-24 18:21:59,216 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:21:59,290 [self_play_agent_0_wrapper] INFO: STARTING STEP 69
+2019-03-24 18:21:59,292 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:59,367 [self_play_agent_0_wrapper] INFO: STARTING STEP 70
+2019-03-24 18:21:59,369 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:21:59,442 [self_play_agent_0_wrapper] INFO: STARTING STEP 71
+2019-03-24 18:21:59,444 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:59,518 [self_play_agent_0_wrapper] INFO: STARTING STEP 72
+2019-03-24 18:21:59,521 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:21:59,595 [self_play_agent_0_wrapper] INFO: STARTING STEP 73
+2019-03-24 18:21:59,597 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:21:59,684 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:21:59,684 [self_play_agent_0_wrapper] INFO: Round #1 finished
+2019-03-24 18:22:01,572 [self_play_agent_0_wrapper] INFO: STARTING ROUND #2
+2019-03-24 18:22:01,647 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:01,650 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:01,724 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:01,729 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-24 18:22:01,801 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:01,803 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:01,878 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:01,880 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:01,953 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:01,956 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:02,030 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:02,032 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:02,106 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:02,110 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:22:02,182 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:02,185 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:02,258 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:02,261 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:02,335 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:02,337 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:02,410 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:02,413 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:02,487 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:02,491 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:22:02,563 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:02,566 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:02,640 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:02,642 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:02,716 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:02,718 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:02,793 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:02,796 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:02,869 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:02,871 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:02,944 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:02,947 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:03,021 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:03,023 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:03,096 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:03,099 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:03,172 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:03,175 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:03,249 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:03,252 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:03,326 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:03,329 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:22:03,402 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:03,404 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:03,478 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:03,480 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:03,554 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:03,556 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:03,630 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:03,632 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:03,706 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:03,709 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:03,783 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:03,786 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:03,859 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:03,861 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:03,935 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:22:03,938 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:04,012 [self_play_agent_0_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:22:04,014 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:04,088 [self_play_agent_0_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:22:04,091 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:04,164 [self_play_agent_0_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:22:04,167 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:04,241 [self_play_agent_0_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:22:04,243 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:04,317 [self_play_agent_0_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:22:04,319 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:04,394 [self_play_agent_0_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:22:04,396 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:04,470 [self_play_agent_0_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:22:04,473 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:04,547 [self_play_agent_0_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:22:04,550 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:04,623 [self_play_agent_0_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:22:04,626 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:04,700 [self_play_agent_0_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:22:04,703 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:04,777 [self_play_agent_0_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:22:04,780 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:04,852 [self_play_agent_0_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:22:04,855 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:04,929 [self_play_agent_0_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:22:04,932 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:05,005 [self_play_agent_0_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:22:05,007 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:05,081 [self_play_agent_0_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:22:05,084 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:05,157 [self_play_agent_0_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:22:05,160 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:05,234 [self_play_agent_0_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:22:05,237 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:05,310 [self_play_agent_0_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:22:05,314 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:05,386 [self_play_agent_0_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:22:05,390 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:05,463 [self_play_agent_0_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:22:05,467 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:22:05,540 [self_play_agent_0_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:22:05,542 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:05,616 [self_play_agent_0_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:22:05,619 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:05,692 [self_play_agent_0_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:22:05,694 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:05,768 [self_play_agent_0_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:22:05,770 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:05,844 [self_play_agent_0_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:22:05,847 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:05,920 [self_play_agent_0_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:22:05,924 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:05,996 [self_play_agent_0_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:22:05,998 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,073 [self_play_agent_0_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:22:06,075 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,148 [self_play_agent_0_wrapper] INFO: STARTING STEP 60
+2019-03-24 18:22:06,150 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,224 [self_play_agent_0_wrapper] INFO: STARTING STEP 61
+2019-03-24 18:22:06,225 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:22:06,300 [self_play_agent_0_wrapper] INFO: STARTING STEP 62
+2019-03-24 18:22:06,303 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,377 [self_play_agent_0_wrapper] INFO: STARTING STEP 63
+2019-03-24 18:22:06,379 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,462 [self_play_agent_0_wrapper] INFO: STARTING STEP 64
+2019-03-24 18:22:06,462 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:22:06,538 [self_play_agent_0_wrapper] INFO: STARTING STEP 65
+2019-03-24 18:22:06,540 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:06,614 [self_play_agent_0_wrapper] INFO: STARTING STEP 66
+2019-03-24 18:22:06,616 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,691 [self_play_agent_0_wrapper] INFO: STARTING STEP 67
+2019-03-24 18:22:06,693 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:06,768 [self_play_agent_0_wrapper] INFO: STARTING STEP 68
+2019-03-24 18:22:06,770 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:06,844 [self_play_agent_0_wrapper] INFO: STARTING STEP 69
+2019-03-24 18:22:06,846 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:06,921 [self_play_agent_0_wrapper] INFO: STARTING STEP 70
+2019-03-24 18:22:06,922 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:06,997 [self_play_agent_0_wrapper] INFO: STARTING STEP 71
+2019-03-24 18:22:06,999 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,075 [self_play_agent_0_wrapper] INFO: STARTING STEP 72
+2019-03-24 18:22:07,078 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:07,150 [self_play_agent_0_wrapper] INFO: STARTING STEP 73
+2019-03-24 18:22:07,153 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,227 [self_play_agent_0_wrapper] INFO: STARTING STEP 74
+2019-03-24 18:22:07,229 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,303 [self_play_agent_0_wrapper] INFO: STARTING STEP 75
+2019-03-24 18:22:07,305 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,378 [self_play_agent_0_wrapper] INFO: STARTING STEP 76
+2019-03-24 18:22:07,380 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:07,456 [self_play_agent_0_wrapper] INFO: STARTING STEP 77
+2019-03-24 18:22:07,458 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,532 [self_play_agent_0_wrapper] INFO: STARTING STEP 78
+2019-03-24 18:22:07,534 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:07,609 [self_play_agent_0_wrapper] INFO: STARTING STEP 79
+2019-03-24 18:22:07,611 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:07,685 [self_play_agent_0_wrapper] INFO: STARTING STEP 80
+2019-03-24 18:22:07,687 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:07,761 [self_play_agent_0_wrapper] INFO: STARTING STEP 81
+2019-03-24 18:22:07,763 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:07,838 [self_play_agent_0_wrapper] INFO: STARTING STEP 82
+2019-03-24 18:22:07,840 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:22:07,913 [self_play_agent_0_wrapper] INFO: STARTING STEP 83
+2019-03-24 18:22:07,915 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:07,990 [self_play_agent_0_wrapper] INFO: STARTING STEP 84
+2019-03-24 18:22:07,994 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:08,066 [self_play_agent_0_wrapper] INFO: STARTING STEP 85
+2019-03-24 18:22:08,068 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:08,143 [self_play_agent_0_wrapper] INFO: STARTING STEP 86
+2019-03-24 18:22:08,145 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:08,219 [self_play_agent_0_wrapper] INFO: STARTING STEP 87
+2019-03-24 18:22:08,221 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:08,295 [self_play_agent_0_wrapper] INFO: STARTING STEP 88
+2019-03-24 18:22:08,297 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:08,371 [self_play_agent_0_wrapper] INFO: STARTING STEP 89
+2019-03-24 18:22:08,373 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:08,448 [self_play_agent_0_wrapper] INFO: STARTING STEP 90
+2019-03-24 18:22:08,450 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:08,524 [self_play_agent_0_wrapper] INFO: STARTING STEP 91
+2019-03-24 18:22:08,526 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:08,600 [self_play_agent_0_wrapper] INFO: STARTING STEP 92
+2019-03-24 18:22:08,602 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:08,676 [self_play_agent_0_wrapper] INFO: STARTING STEP 93
+2019-03-24 18:22:08,678 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:08,753 [self_play_agent_0_wrapper] INFO: STARTING STEP 94
+2019-03-24 18:22:08,754 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:22:08,829 [self_play_agent_0_wrapper] INFO: STARTING STEP 95
+2019-03-24 18:22:08,832 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:08,906 [self_play_agent_0_wrapper] INFO: STARTING STEP 96
+2019-03-24 18:22:08,908 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:08,982 [self_play_agent_0_wrapper] INFO: STARTING STEP 97
+2019-03-24 18:22:08,984 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:09,059 [self_play_agent_0_wrapper] INFO: STARTING STEP 98
+2019-03-24 18:22:09,061 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:09,135 [self_play_agent_0_wrapper] INFO: STARTING STEP 99
+2019-03-24 18:22:09,137 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:22:09,211 [self_play_agent_0_wrapper] INFO: STARTING STEP 100
+2019-03-24 18:22:09,213 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:09,287 [self_play_agent_0_wrapper] INFO: STARTING STEP 101
+2019-03-24 18:22:09,289 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:09,364 [self_play_agent_0_wrapper] INFO: STARTING STEP 102
+2019-03-24 18:22:09,366 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:09,440 [self_play_agent_0_wrapper] INFO: STARTING STEP 103
+2019-03-24 18:22:09,443 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:09,517 [self_play_agent_0_wrapper] INFO: STARTING STEP 104
+2019-03-24 18:22:09,519 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:09,592 [self_play_agent_0_wrapper] INFO: STARTING STEP 105
+2019-03-24 18:22:09,594 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:09,668 [self_play_agent_0_wrapper] INFO: STARTING STEP 106
+2019-03-24 18:22:09,671 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:09,745 [self_play_agent_0_wrapper] INFO: STARTING STEP 107
+2019-03-24 18:22:09,747 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:22:09,821 [self_play_agent_0_wrapper] INFO: STARTING STEP 108
+2019-03-24 18:22:09,823 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.001s of thinking
+2019-03-24 18:22:09,897 [self_play_agent_0_wrapper] INFO: STARTING STEP 109
+2019-03-24 18:22:09,899 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:09,973 [self_play_agent_0_wrapper] INFO: STARTING STEP 110
+2019-03-24 18:22:09,975 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:10,048 [self_play_agent_0_wrapper] INFO: STARTING STEP 111
+2019-03-24 18:22:10,050 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:10,124 [self_play_agent_0_wrapper] INFO: STARTING STEP 112
+2019-03-24 18:22:10,126 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:22:10,137 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:10,137 [self_play_agent_0_wrapper] INFO: Round #2 finished
+2019-03-24 18:22:18,424 [self_play_agent_0_wrapper] INFO: STARTING ROUND #3
+2019-03-24 18:22:18,453 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:18,457 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:18,529 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:18,532 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:18,606 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:18,609 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:18,682 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:18,685 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:18,760 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:18,763 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:18,836 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:18,839 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:18,912 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:18,915 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:18,988 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:18,991 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:19,064 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:19,067 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:19,141 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:19,144 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:19,218 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:19,220 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:19,294 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:19,296 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:19,370 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:19,370 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 18:22:19,446 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:19,448 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:19,522 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:19,524 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:19,598 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:19,601 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:19,675 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:19,679 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:19,751 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:19,753 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:19,827 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:19,829 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:19,902 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:19,904 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:19,980 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:19,982 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:20,056 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:20,059 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:20,132 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:20,134 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:20,208 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:20,209 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:20,285 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:20,287 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:20,360 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:20,363 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:20,437 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:20,440 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:20,514 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:20,516 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:20,523 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:20,523 [self_play_agent_0_wrapper] INFO: Round #3 finished
+2019-03-24 18:22:27,675 [self_play_agent_0_wrapper] INFO: STARTING ROUND #4
+2019-03-24 18:22:27,695 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:27,697 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:27,771 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:27,773 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:27,848 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:27,850 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:27,924 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:27,928 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:28,001 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:28,004 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:28,077 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:28,080 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:28,154 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:28,156 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:28,230 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:28,232 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:28,307 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:28,309 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:28,383 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:28,386 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:28,459 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:28,462 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:28,535 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:28,537 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:28,611 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:28,614 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:28,687 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:28,690 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:28,764 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:28,766 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:28,840 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:28,843 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:28,917 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:28,919 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:28,993 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:28,996 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:29,069 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:29,071 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:29,147 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:29,149 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:29,224 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:29,227 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:29,301 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:29,304 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:29,378 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:29,383 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-03-24 18:22:29,454 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:29,457 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:29,531 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:29,533 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:29,606 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:29,610 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:29,683 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:29,686 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:29,759 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:29,762 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:29,835 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:29,838 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:29,911 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:29,913 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:29,987 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:22:29,990 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:30,063 [self_play_agent_0_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:22:30,065 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:30,140 [self_play_agent_0_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:22:30,142 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:30,217 [self_play_agent_0_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:22:30,219 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:30,294 [self_play_agent_0_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:22:30,296 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:30,370 [self_play_agent_0_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:22:30,372 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:30,447 [self_play_agent_0_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:22:30,449 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:30,524 [self_play_agent_0_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:22:30,526 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:30,600 [self_play_agent_0_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:22:30,602 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:30,676 [self_play_agent_0_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:22:30,678 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:30,752 [self_play_agent_0_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:22:30,754 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:30,828 [self_play_agent_0_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:22:30,830 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:30,904 [self_play_agent_0_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:22:30,906 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:30,981 [self_play_agent_0_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:22:30,983 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:31,056 [self_play_agent_0_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:22:31,059 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:31,133 [self_play_agent_0_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:22:31,134 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.000s of thinking
+2019-03-24 18:22:31,211 [self_play_agent_0_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:22:31,213 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:31,287 [self_play_agent_0_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:22:31,289 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:31,363 [self_play_agent_0_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:22:31,365 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:31,440 [self_play_agent_0_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:22:31,440 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 18:22:31,516 [self_play_agent_0_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:22:31,518 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:31,592 [self_play_agent_0_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:22:31,596 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:31,669 [self_play_agent_0_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:22:31,671 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:31,746 [self_play_agent_0_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:22:31,748 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:31,822 [self_play_agent_0_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:22:31,824 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:31,899 [self_play_agent_0_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:22:31,901 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:31,974 [self_play_agent_0_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:22:31,976 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:32,051 [self_play_agent_0_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:22:32,053 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,129 [self_play_agent_0_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:22:32,131 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,204 [self_play_agent_0_wrapper] INFO: STARTING STEP 60
+2019-03-24 18:22:32,206 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,280 [self_play_agent_0_wrapper] INFO: STARTING STEP 61
+2019-03-24 18:22:32,282 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,356 [self_play_agent_0_wrapper] INFO: STARTING STEP 62
+2019-03-24 18:22:32,359 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,440 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:32,441 [self_play_agent_0_wrapper] INFO: Round #4 finished
+2019-03-24 18:22:32,862 [self_play_agent_0_wrapper] INFO: STARTING ROUND #5
+2019-03-24 18:22:32,895 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:32,897 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:32,971 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:32,974 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:33,048 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:33,050 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:33,124 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:33,126 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:33,200 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:33,202 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:33,278 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:33,280 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:33,353 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:33,355 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:33,429 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:33,431 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:33,505 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:33,508 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:33,583 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:33,585 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:33,659 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:33,663 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:22:33,735 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:33,737 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:33,812 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:33,815 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:33,889 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:33,892 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:33,966 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:33,968 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:34,041 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:34,044 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:34,118 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:34,119 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:34,194 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:34,196 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:34,270 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:34,272 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:34,346 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:34,348 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:34,422 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:34,424 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.001s of thinking
+2019-03-24 18:22:34,499 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:34,501 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:34,575 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:34,577 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:34,650 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:34,653 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:34,727 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:34,731 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-24 18:22:34,804 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:34,806 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:34,880 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:34,882 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:34,956 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:34,958 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:35,032 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:35,034 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:35,109 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:35,111 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:35,185 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:22:35,187 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:35,262 [self_play_agent_0_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:22:35,264 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:35,338 [self_play_agent_0_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:22:35,340 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:35,415 [self_play_agent_0_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:22:35,417 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:35,492 [self_play_agent_0_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:22:35,494 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:35,569 [self_play_agent_0_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:22:35,571 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:35,645 [self_play_agent_0_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:22:35,647 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:35,721 [self_play_agent_0_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:22:35,723 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:35,798 [self_play_agent_0_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:22:35,800 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:35,874 [self_play_agent_0_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:22:35,876 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:35,950 [self_play_agent_0_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:22:35,952 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:36,027 [self_play_agent_0_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:22:36,030 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:36,104 [self_play_agent_0_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:22:36,106 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:36,181 [self_play_agent_0_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:22:36,183 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:36,257 [self_play_agent_0_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:22:36,259 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:36,333 [self_play_agent_0_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:22:36,336 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:36,410 [self_play_agent_0_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:22:36,413 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:36,486 [self_play_agent_0_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:22:36,488 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:36,562 [self_play_agent_0_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:22:36,564 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:36,638 [self_play_agent_0_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:22:36,638 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 18:22:36,715 [self_play_agent_0_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:22:36,715 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 18:22:36,791 [self_play_agent_0_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:22:36,794 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:36,801 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:36,801 [self_play_agent_0_wrapper] INFO: Round #5 finished
+2019-03-24 18:22:39,642 [self_play_agent_0_wrapper] INFO: STARTING ROUND #6
+2019-03-24 18:22:39,700 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:39,703 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:39,776 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:39,781 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-24 18:22:39,852 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:39,855 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:39,929 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:39,932 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:40,006 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:40,008 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:40,082 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:40,084 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:40,158 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:40,160 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:40,234 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:40,237 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:40,311 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:40,312 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:22:40,388 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:40,392 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:40,464 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:40,466 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:40,540 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:40,543 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:40,616 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:40,618 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:40,692 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:40,694 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:40,769 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:40,771 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:40,845 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:40,847 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:40,921 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:40,924 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:40,998 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:41,001 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:41,074 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:41,076 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:41,150 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:41,152 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:41,226 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:41,230 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:41,302 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:41,305 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:41,379 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:41,381 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:41,455 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:41,457 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:41,531 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:41,534 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:41,608 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:41,611 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:41,684 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:41,687 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:41,759 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:41,764 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-24 18:22:41,835 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:41,838 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:41,912 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:41,913 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.000s of thinking
+2019-03-24 18:22:41,988 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:22:41,991 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:42,071 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:42,071 [self_play_agent_0_wrapper] INFO: Round #6 finished
+2019-03-24 18:22:42,484 [self_play_agent_0_wrapper] INFO: STARTING ROUND #7
+2019-03-24 18:22:42,528 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:42,531 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:22:42,604 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:42,606 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:42,680 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:42,683 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:42,757 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:42,760 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:42,834 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:42,836 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:42,911 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:42,914 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:42,987 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:42,989 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:43,063 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:43,066 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:43,139 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:43,142 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:43,217 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:43,220 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:43,293 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:43,299 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-24 18:22:43,369 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:43,372 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:43,447 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:43,449 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:43,523 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:43,526 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:43,600 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:43,602 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:43,677 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:43,682 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-24 18:22:43,753 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:43,756 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:43,830 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:43,832 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:43,907 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:43,910 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:43,983 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:43,985 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:44,059 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:44,062 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:44,135 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:44,137 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:44,212 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:44,214 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:44,288 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:44,291 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:44,364 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:44,366 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:44,440 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:44,442 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:44,517 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:44,520 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:44,593 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:44,597 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:22:44,670 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:44,670 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.000s of thinking
+2019-03-24 18:22:44,746 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:44,749 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:44,822 [self_play_agent_0_wrapper] INFO: STARTING STEP 31
+2019-03-24 18:22:44,824 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:44,898 [self_play_agent_0_wrapper] INFO: STARTING STEP 32
+2019-03-24 18:22:44,901 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:44,975 [self_play_agent_0_wrapper] INFO: STARTING STEP 33
+2019-03-24 18:22:44,979 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-24 18:22:45,051 [self_play_agent_0_wrapper] INFO: STARTING STEP 34
+2019-03-24 18:22:45,054 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:45,128 [self_play_agent_0_wrapper] INFO: STARTING STEP 35
+2019-03-24 18:22:45,131 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:45,203 [self_play_agent_0_wrapper] INFO: STARTING STEP 36
+2019-03-24 18:22:45,206 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:45,280 [self_play_agent_0_wrapper] INFO: STARTING STEP 37
+2019-03-24 18:22:45,282 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:45,356 [self_play_agent_0_wrapper] INFO: STARTING STEP 38
+2019-03-24 18:22:45,359 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:45,432 [self_play_agent_0_wrapper] INFO: STARTING STEP 39
+2019-03-24 18:22:45,435 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:45,509 [self_play_agent_0_wrapper] INFO: STARTING STEP 40
+2019-03-24 18:22:45,512 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:45,585 [self_play_agent_0_wrapper] INFO: STARTING STEP 41
+2019-03-24 18:22:45,588 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:45,663 [self_play_agent_0_wrapper] INFO: STARTING STEP 42
+2019-03-24 18:22:45,665 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:45,738 [self_play_agent_0_wrapper] INFO: STARTING STEP 43
+2019-03-24 18:22:45,741 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:45,815 [self_play_agent_0_wrapper] INFO: STARTING STEP 44
+2019-03-24 18:22:45,818 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:45,892 [self_play_agent_0_wrapper] INFO: STARTING STEP 45
+2019-03-24 18:22:45,896 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:22:45,969 [self_play_agent_0_wrapper] INFO: STARTING STEP 46
+2019-03-24 18:22:45,971 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:46,045 [self_play_agent_0_wrapper] INFO: STARTING STEP 47
+2019-03-24 18:22:46,048 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:22:46,121 [self_play_agent_0_wrapper] INFO: STARTING STEP 48
+2019-03-24 18:22:46,123 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:46,198 [self_play_agent_0_wrapper] INFO: STARTING STEP 49
+2019-03-24 18:22:46,200 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:46,274 [self_play_agent_0_wrapper] INFO: STARTING STEP 50
+2019-03-24 18:22:46,276 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:46,350 [self_play_agent_0_wrapper] INFO: STARTING STEP 51
+2019-03-24 18:22:46,352 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:46,427 [self_play_agent_0_wrapper] INFO: STARTING STEP 52
+2019-03-24 18:22:46,429 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.001s of thinking
+2019-03-24 18:22:46,503 [self_play_agent_0_wrapper] INFO: STARTING STEP 53
+2019-03-24 18:22:46,505 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.001s of thinking
+2019-03-24 18:22:46,578 [self_play_agent_0_wrapper] INFO: STARTING STEP 54
+2019-03-24 18:22:46,581 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.001s of thinking
+2019-03-24 18:22:46,655 [self_play_agent_0_wrapper] INFO: STARTING STEP 55
+2019-03-24 18:22:46,657 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:46,732 [self_play_agent_0_wrapper] INFO: STARTING STEP 56
+2019-03-24 18:22:46,734 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:46,808 [self_play_agent_0_wrapper] INFO: STARTING STEP 57
+2019-03-24 18:22:46,811 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:46,885 [self_play_agent_0_wrapper] INFO: STARTING STEP 58
+2019-03-24 18:22:46,888 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:46,962 [self_play_agent_0_wrapper] INFO: STARTING STEP 59
+2019-03-24 18:22:46,964 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:47,046 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:47,046 [self_play_agent_0_wrapper] INFO: Round #7 finished
+2019-03-24 18:22:47,376 [self_play_agent_0_wrapper] INFO: STARTING ROUND #8
+2019-03-24 18:22:47,424 [self_play_agent_0_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:22:47,427 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:47,500 [self_play_agent_0_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:22:47,503 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:47,576 [self_play_agent_0_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:22:47,579 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:47,652 [self_play_agent_0_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:22:47,654 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:47,729 [self_play_agent_0_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:22:47,732 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:22:47,805 [self_play_agent_0_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:22:47,808 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:47,881 [self_play_agent_0_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:22:47,883 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:47,957 [self_play_agent_0_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:22:47,960 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:48,033 [self_play_agent_0_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:22:48,035 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:48,109 [self_play_agent_0_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:22:48,111 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:22:48,186 [self_play_agent_0_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:22:48,188 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:48,263 [self_play_agent_0_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:22:48,265 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:48,339 [self_play_agent_0_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:22:48,343 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:22:48,416 [self_play_agent_0_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:22:48,418 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:48,492 [self_play_agent_0_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:22:48,494 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:48,568 [self_play_agent_0_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:22:48,571 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:48,645 [self_play_agent_0_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:22:48,647 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:48,722 [self_play_agent_0_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:22:48,725 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:48,797 [self_play_agent_0_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:22:48,799 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:48,873 [self_play_agent_0_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:22:48,873 [self_play_agent_0_wrapper] INFO: Chose action UP after 0.000s of thinking
+2019-03-24 18:22:48,949 [self_play_agent_0_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:22:48,952 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:49,025 [self_play_agent_0_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:22:49,028 [self_play_agent_0_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:22:49,101 [self_play_agent_0_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:22:49,104 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:22:49,178 [self_play_agent_0_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:22:49,181 [self_play_agent_0_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:22:49,254 [self_play_agent_0_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:22:49,257 [self_play_agent_0_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:22:49,330 [self_play_agent_0_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:22:49,333 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:49,406 [self_play_agent_0_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:22:49,409 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:49,483 [self_play_agent_0_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:22:49,485 [self_play_agent_0_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:22:49,560 [self_play_agent_0_wrapper] INFO: STARTING STEP 29
+2019-03-24 18:22:49,563 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:49,636 [self_play_agent_0_wrapper] INFO: STARTING STEP 30
+2019-03-24 18:22:49,639 [self_play_agent_0_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:22:49,644 [self_play_agent_0_wrapper] INFO: Received exit message for round
+2019-03-24 18:22:49,645 [self_play_agent_0_wrapper] INFO: Round #8 finished
+2019-03-24 18:23:17,842 [self_play_agent_0_wrapper] INFO: Received global exit message
+2019-03-24 18:23:17,842 [self_play_agent_0_wrapper] INFO: SHUT DOWN

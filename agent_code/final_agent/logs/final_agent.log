@@ -1,0 +1,91 @@
+2019-03-24 18:56:42,866 [final_agent_wrapper] INFO: Import agent code from "agent_code/final_agent/callbacks.py"
+2019-03-24 18:56:48,116 [final_agent_wrapper] INFO: Initialize agent code
+2019-03-24 18:56:50,394 [final_agent_wrapper] INFO: STARTING ROUND #1
+2019-03-24 18:56:50,496 [final_agent_wrapper] INFO: STARTING STEP 1
+2019-03-24 18:56:50,534 [final_agent_wrapper] INFO: Chose action LEFT after 0.037s of thinking
+2019-03-24 18:56:50,597 [final_agent_wrapper] INFO: STARTING STEP 2
+2019-03-24 18:56:50,598 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:50,600 [final_agent_wrapper] INFO: Chose action BOMB after 0.002s of thinking
+2019-03-24 18:56:50,699 [final_agent_wrapper] INFO: STARTING STEP 3
+2019-03-24 18:56:50,701 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:50,704 [final_agent_wrapper] INFO: Chose action RIGHT after 0.002s of thinking
+2019-03-24 18:56:50,811 [final_agent_wrapper] INFO: STARTING STEP 4
+2019-03-24 18:56:50,813 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:50,816 [final_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:56:50,907 [final_agent_wrapper] INFO: STARTING STEP 5
+2019-03-24 18:56:50,908 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:50,911 [final_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:56:51,009 [final_agent_wrapper] INFO: STARTING STEP 6
+2019-03-24 18:56:51,010 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,013 [final_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:56:51,111 [final_agent_wrapper] INFO: STARTING STEP 7
+2019-03-24 18:56:51,111 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,114 [final_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 18:56:51,213 [final_agent_wrapper] INFO: STARTING STEP 8
+2019-03-24 18:56:51,213 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,216 [final_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:56:51,315 [final_agent_wrapper] INFO: STARTING STEP 9
+2019-03-24 18:56:51,315 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,318 [final_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:56:51,416 [final_agent_wrapper] INFO: STARTING STEP 10
+2019-03-24 18:56:51,416 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,420 [final_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:56:51,526 [final_agent_wrapper] INFO: STARTING STEP 11
+2019-03-24 18:56:51,526 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,530 [final_agent_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-24 18:56:51,624 [final_agent_wrapper] INFO: STARTING STEP 12
+2019-03-24 18:56:51,624 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,627 [final_agent_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-24 18:56:51,724 [final_agent_wrapper] INFO: STARTING STEP 13
+2019-03-24 18:56:51,725 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,728 [final_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:56:51,826 [final_agent_wrapper] INFO: STARTING STEP 14
+2019-03-24 18:56:51,826 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,829 [final_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:56:51,927 [final_agent_wrapper] INFO: STARTING STEP 15
+2019-03-24 18:56:51,928 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:51,931 [final_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:56:52,028 [final_agent_wrapper] INFO: STARTING STEP 16
+2019-03-24 18:56:52,028 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,031 [final_agent_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-24 18:56:52,129 [final_agent_wrapper] INFO: STARTING STEP 17
+2019-03-24 18:56:52,130 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,133 [final_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:56:52,241 [final_agent_wrapper] INFO: STARTING STEP 18
+2019-03-24 18:56:52,241 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,244 [final_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:56:52,338 [final_agent_wrapper] INFO: STARTING STEP 19
+2019-03-24 18:56:52,339 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,342 [final_agent_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-24 18:56:52,440 [final_agent_wrapper] INFO: STARTING STEP 20
+2019-03-24 18:56:52,440 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,444 [final_agent_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-24 18:56:52,541 [final_agent_wrapper] INFO: STARTING STEP 21
+2019-03-24 18:56:52,541 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,545 [final_agent_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-24 18:56:52,643 [final_agent_wrapper] INFO: STARTING STEP 22
+2019-03-24 18:56:52,643 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,646 [final_agent_wrapper] INFO: Chose action DOWN after 0.002s of thinking
+2019-03-24 18:56:52,743 [final_agent_wrapper] INFO: STARTING STEP 23
+2019-03-24 18:56:52,744 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,747 [final_agent_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-24 18:56:52,845 [final_agent_wrapper] INFO: STARTING STEP 24
+2019-03-24 18:56:52,846 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,847 [final_agent_wrapper] INFO: Chose action LEFT after 0.000s of thinking
+2019-03-24 18:56:52,947 [final_agent_wrapper] INFO: STARTING STEP 25
+2019-03-24 18:56:52,947 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:52,951 [final_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 18:56:53,048 [final_agent_wrapper] INFO: STARTING STEP 26
+2019-03-24 18:56:53,048 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:53,051 [final_agent_wrapper] INFO: Chose action WAIT after 0.002s of thinking
+2019-03-24 18:56:53,149 [final_agent_wrapper] INFO: STARTING STEP 27
+2019-03-24 18:56:53,149 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:53,152 [final_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 18:56:53,254 [final_agent_wrapper] INFO: STARTING STEP 28
+2019-03-24 18:56:53,254 [final_agent_wrapper] INFO: Process intermediate rewards
+2019-03-24 18:56:53,258 [final_agent_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-24 18:56:53,265 [final_agent_wrapper] INFO: Received exit message for round
+2019-03-24 18:56:53,265 [final_agent_wrapper] INFO: Finalize agent's training
+2019-03-24 18:56:53,368 [final_agent_wrapper] INFO: Round #1 finished
+2019-03-24 18:56:54,761 [final_agent_wrapper] INFO: Received global exit message
+2019-03-24 18:56:54,761 [final_agent_wrapper] INFO: SHUT DOWN
