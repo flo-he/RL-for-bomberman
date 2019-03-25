@@ -141,35 +141,33 @@ class DuelingDQN(object):
         # get the batch
         states, actions, rewards, next_states, continues = agent.batch_queue.get()
 
-        # online dqn computes the q values for the next state and determines best action
-        with agent.DQNLock:
-            #print("learn acquired DQNLock")
-            next_state_q, target_q = agent.sess.run(
-                                        [agent.online_dqn.output_layer, agent.target_dqn.output_layer],
-                                        feed_dict={
-                                            agent.online_dqn.input_layer: next_states,
-                                            agent.target_dqn.input_layer: next_states
-                                        }
-                                    )
+        # compute q values for the next states
+        next_state_q, target_q = agent.sess.run(
+                                    [agent.online_dqn.output_layer, agent.target_dqn.output_layer],
+                                    feed_dict={
+                                        agent.online_dqn.input_layer: next_states,
+                                        agent.target_dqn.input_layer: next_states
+                                    }
+                                )
 
-            # target dqn computes target q values for the next state
-            best_action = np.argmax(next_state_q, axis=1)
+        # online dqn chooses best action for the next state
+        best_action = np.argmax(next_state_q, axis=1)
 
-            # compute the "ground truth" q value: reward + : if the episode ended the future reward is 0 (use of continues)
-            # else it's the discount rate times the target q value of the next action chosen by the online dqn (1-step-Q-Learning update DDQN)
-            dim_0_indices = np.arange(target_q.shape[0])
-            y_val = rewards.reshape(-1, 1) + continues.reshape(-1, 1) * agent.discount_rate * target_q[dim_0_indices, best_action].reshape(-1, 1)
+        # compute the "ground truth" q value: reward + : if the episode ended the future reward is 0 (use of continues)
+        # else it's the discount rate times the target q value of the next action chosen by the online dqn (1-step-Q-Learning update DDQN)
+        dim_0_indices = np.arange(target_q.shape[0])
+        y_val = rewards.reshape(-1, 1) + continues.reshape(-1, 1) * agent.discount_rate * target_q[dim_0_indices, best_action].reshape(-1, 1)
 
-            # actual training step
-            loss, _ , __= agent.sess.run(
-                        [agent.online_dqn.loss, agent.online_dqn.training_op, agent.copy_online_to_target],
-                        feed_dict = {
-                            agent.online_dqn.input_layer: states,
-                            agent.online_dqn.actions_input: actions,
-                            agent.online_dqn.y_Q: y_val
-                        }
-                    )
-            agent.losses.append(loss)
+        # actual training step
+        loss, _ , __= agent.sess.run(
+                    [agent.online_dqn.loss, agent.online_dqn.training_op, agent.copy_online_to_target],
+                    feed_dict = {
+                        agent.online_dqn.input_layer: states,
+                        agent.online_dqn.actions_input: actions,
+                        agent.online_dqn.y_Q: y_val
+                    }
+                )
+        agent.losses.append(loss)
 
 class MemArray(object):
     '''Base container for the different elements of the ExperienceBuffer. Acts like a ringbuffer.'''
