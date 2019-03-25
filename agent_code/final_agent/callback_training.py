@@ -79,7 +79,6 @@ def setup(self):
             self.batch_size = BATCH_SIZE
             self.discount_rate = DISCOUNT_RATE
             # for rewarding and metrics
-            self.available_coins = 0
             self.max_Q = 0
             self.mean_max_Qs = []
             self.time_steps = []
@@ -192,9 +191,11 @@ def setup(self):
                     print(e)
                 print("Initialized target_DQN") 
 
-            self.DQNLock = threading.RLock()
+            # create a lock for the buffer
             self.SharedLock = threading.RLock()
+            # mini batch queue
             self.batch_queue = queue.Queue(maxsize=100)
+            # batch thread 
             self.BatchThread = threading.Thread(target=self.Buffer.create_mini_batch, args=(self.batch_size, self), daemon=True)
 
             self.time = time.clock()
@@ -334,9 +335,6 @@ def end_of_episode(self):
             
             # print training info
             if self.episode % self.info_step == 0:
-                self.DQNLock.acquire()
-                self.SharedLock.acquire()
-                
                 # get training metrics
                 avg_loss = np.mean(self.losses)
                 avg_score = np.mean(self.score)
@@ -373,7 +371,8 @@ def end_of_episode(self):
                     self.saver.save(self.sess, DQN_PATH)
                     print("Saved Model")
                     try:
-                        self.Buffer.save_to_disc(BUFFER_PATH)
+                        with self.SharedLock:
+                            self.Buffer.save_to_disc(BUFFER_PATH)
                         print("Saved Buffer.")
                     except Exception as e:
                         raise RuntimeError(f"{e}")
@@ -381,9 +380,7 @@ def end_of_episode(self):
                         np.save(file=INFO_PATH, arr=np.concatenate([[self.episode], self.epsilon]))
                     except Exception as e:
                         raise RuntimeError(f"{e}")
-
-                self.SharedLock.release()
-                self.DQNLock.release()
+                        
                 self.time = time.clock()
     except Exception as e:
         raise RuntimeError(f"{e}")
