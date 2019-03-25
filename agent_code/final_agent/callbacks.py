@@ -73,49 +73,45 @@ def setup(self):
         raise RuntimeError(f"{e}")
 
 def act(self):
-    try:  
-        # if game round starts, beginning history is 4x beginning state frame
-        preprocessed_img = preprocess(self.game_state)
-        if self.game_state['step'] == 1:
-            for _ in range(N_FRAMES):
-                self.recent_frames.append(preprocessed_img)
-        else:
+    # if game round starts, beginning history is 4x beginning state frame
+    preprocessed_img = preprocess(self.game_state)
+    if self.game_state['step'] == 1:
+        for _ in range(N_FRAMES):
             self.recent_frames.append(preprocessed_img)
+    else:
+        self.recent_frames.append(preprocessed_img)
 
-        # the state (neural network input) are 4 frames stacked along the third dimension
-        # to give the agent some sense of time
-        # (converting deque to a list beforehand increases performance)
-        for i in range(N_FRAMES):
-            self.stacked_frames[:, :, i] = self.recent_frames[i]
+    # the state (neural network input) are 4 frames stacked along the third dimension
+    # to give the agent some sense of time
+    # (converting deque to a list beforehand increases performance)
+    for i in range(N_FRAMES):
+        self.stacked_frames[:, :, i] = self.recent_frames[i]
 
-        # EPSILON GREEDY
-        # get current epsilon
+    # EPSILON GREEDY
+    # get current epsilon
 
-        
-        # use higher exploration value if no other enemy is alive
-        if self.game_state["others"]:
-            self.epsilon = 0.025
-        else:
-            self.epsilon = 0.10
 
-        # sample a random number from 0 to 1. If it's smaller than epsilon,
-        # execute a random action, else let the DQN decide on the next action to take
-        if np.random.rand() <= self.epsilon:
-            action_idx = np.random.choice([*self.actions], p=[.20, .20, .20, .20, .16, .04])
-            self.next_action = self.actions[action_idx]
-            #self.next_action = self.game_state['user_input']
-            #print(f"Action chosen at random: {self.actions[action_idx]}")
-        else:
-            q_values = self.sess.run(self.online_dqn.output_layer, feed_dict={self.online_dqn.input_layer: [self.stacked_frames]})
-            #print(q_values)
-            #q_dict = {act: val for act, val in zip(self.actions.items(), *q_values)}
-            #print(q_dict)
-            action_idx = np.argmax(q_values)
-            self.next_action = self.actions[action_idx]
-            #print(f"Action chosen by agent: {self.actions[action_idx]}")
+    # use higher exploration value if no other enemy is alive
+    if self.game_state["others"]:
+        self.epsilon = 0.025
+    else:
+        self.epsilon = 0.10
 
-    except Exception as e:
-        raise RuntimeError(f"{e}")
+    # sample a random number from 0 to 1. If it's smaller than epsilon,
+    # execute a random action, else let the DQN decide on the next action to take
+    if np.random.rand() <= self.epsilon:
+        action_idx = np.random.choice([*self.actions], p=[.20, .20, .20, .20, .16, .04])
+        self.next_action = self.actions[action_idx]
+        #self.next_action = self.game_state['user_input']
+        #print(f"Action chosen at random: {self.actions[action_idx]}")
+    else:
+        q_values = self.sess.run(self.online_dqn.output_layer, feed_dict={self.online_dqn.input_layer: [self.stacked_frames]})
+        #print(q_values)
+        #q_dict = {act: val for act, val in zip(self.actions.items(), *q_values)}
+        #print(q_dict)
+        action_idx = np.argmax(q_values)
+        self.next_action = self.actions[action_idx]
+        #print(f"Action chosen by agent: {self.actions[action_idx]}")
 
 def reward_update(self):
     pass
